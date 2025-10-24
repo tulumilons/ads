@@ -1,0 +1,28 @@
+“Uma matriz é uma generalização do conceito de vetor. Enquanto o vetor possui apenas um índice, ou seja, apenas uma dimensão, chamado, portanto, de unidimensional, a matriz pode conter múltiplas dimensões.”
+
+Fonte: RIBEIRO, J. A. Introdução à programação e aos algoritmos. 1. ed. Rio de Janeiro: LTC, 2019, p. 162.
+
+Com base no texto acima e nos conteúdos abordados sobre Matrizes, analise as asserções a seguir e a relação proposta entre elas:
+
+I. A forma correta de atribuir o valor 16 na posição [5,2] de uma matriz chamada aula é utilizando o comando aula[5,2] <- 16.
+
+Porque
+
+II. O comando que apresenta corretamente o elemento da posição [5,2] da matriz de nome aula é escreval(aula[5,2]).
+
+​a) As asserções I e II são proposições falsas.
+
+b) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+
+c) A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+
+d) As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+
+e) As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+
+Resposta: e
+A frase I está correta porque usa a sintaxe certa para guardar um valor em uma posição da matriz.
+A frase II está correta porque usa a forma certa de mostrar o que foi guardado nessa posição.
+A II justifica a I porque:
+A frase II mostra que a posição [5,2] existe e que é válido usar essa notação.
+Isso confirma que a atribuição feita na I também está correta.​

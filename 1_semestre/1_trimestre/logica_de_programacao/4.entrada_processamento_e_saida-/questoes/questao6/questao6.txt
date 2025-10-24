@@ -1,0 +1,39 @@
+​Leia o trecho a seguir:
+
+“Um algoritmo computa uma saída, o resultado do problema, a partir de uma entrada, as informações inicialmente conhecidas e que permitem encontrar a solução do problema. Durante o processo de computação, o algoritmo manipula dados, gerados a partir de sua entrada.”
+
+Fonte: SZWARCFITER, J. L.; MARKENZON, L. Estruturas de dados e seus algoritmos. 3.ed. Rio de Janeiro: LTC, 2015.
+
+Com base no conhecimento sobre Entrada, Processamento e Saída, analise a seguinte situação: Um engenheiro fez o rascunho mostrado abaixo de um algoritmo que ele deseja implementar num software:
+
+1) início
+
+2) ler valores para M, N e P
+
+3) Calcular Z como sendo NxN-4xMxP
+
+4) Se Z < 0 ir para a construção nº 9
+
+5) calcular R1 como sendo (-N + raiz quadrada de Z) / (2 x M)
+
+6) calcular R2 como sendo (-N - raiz quadrada de Z) / (2 x M)
+
+7) calcular S como sendo R1 - R2
+
+8) imprimir S
+
+9) fim
+
+As linhas 5 e 6 constituem:
+​
+a) Entradas de dados
+
+b) Saídas de dados
+
+c) Computação de informações
+
+d) Etapas de Processamento
+
+e) A capacidade de inteligência do computador.
+
+Resposta: d

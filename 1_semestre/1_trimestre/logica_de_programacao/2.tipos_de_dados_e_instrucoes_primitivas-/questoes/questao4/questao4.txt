@@ -1,0 +1,35 @@
+​Analise o seguinte trecho de código em linguagem de programação:
+
+programa Principal;
+
+variável x, y: inteiro;
+
+início
+
+    x := 5;
+
+    y := 3;
+
+    x := x * 2;
+
+    y := y + x;
+
+    escreva("Valor de x: ", x);
+
+    escreva("Valor de y: ", y);
+
+fim.
+
+Qual das seguintes alternativas melhor descreve o papel das instruções primitivas no código acima?
+​
+a) Definir funções complexas e algoritmos de ordenação
+
+b) Realizar operações aritméticas simples e manipulação de variáveis
+
+c) Controlar o fluxo do programa através de loops e condições
+
+d) Declarar variáveis e estruturas de dados complexas
+
+e) Manipular entrada e saída de dados em arquivos
+
+Resposta: b

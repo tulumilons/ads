@@ -1,0 +1,20 @@
+​(IBFC - Adaptada) Leia o trecho a seguir:
+
+“A tomada de decisão executada por um computador estabelece uma ação de desvio na operação do fluxo do programa. Desta forma, um determinado trecho do programa pode realizar uma ou outra tarefa de processamento.”
+
+Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 59.
+
+A partir do texto e dos conhecimentos sobre Tomada de Decisão, sabendo que é comum que em linguagem de programação sejam aplicados diferentes tipos de dados; aqueles que são usados como resultados de expressões condicionais, possuindo apenas dois valores, um correspondente a verdadeiro e outro a falso, são do tipo:
+
+​a) Literal
+
+b) Inteiro
+
+c) Real
+
+d) Decimal
+
+e) Lógico
+
+Resposta: e
+O tipo lógico é um tipo de dado utilizado na programação de computadores, visto que em operações lógicas o resultado será sempre um valor VERDADEIRO ou FALSO e apenas um dos valores pode ser escolhido.

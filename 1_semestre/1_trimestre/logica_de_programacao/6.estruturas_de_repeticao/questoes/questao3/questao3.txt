@@ -1,0 +1,38 @@
+​Leia o trecho a seguir:
+
+“Existem comandos apropriados para realizar a repetição de determinados trechos de programa o número de vezes que for necessário. A vantagem desse recurso é que o programa passa a ser menor, podendo sua amplitude de processamento ser aumentada sem alterar o tamanho do código de programação. É possível determinar repetições com números variados de vezes.”
+
+Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 89.
+
+Com base no texto acima e nos seus conhecimentos sobre Repetição, considere a afirmativas a seguir:
+
+I. Uma das formas de se utilizar o comando de repetição é:
+
+REPITA <sequência-de-comandos> ATE <expressão-lógica>.
+
+II. A estrutura da instrução enquanto...faça...fim_enquanto tem o funcionamento controlado por decisão, e executa um conjunto de instruções enquanto a condição verificada for Falsa. 
+
+III. O comando para é utilizado da seguinte forma: 
+
+PARA <variável> DE ** ATE** PASSO **FACA **<sequência-de-comandos>
+
+FIMPARA.
+
+IV. Os laços que possuem um número finito de execuções podem ser processados pela estrutura para, por meio dos comandos para...de...até... passo...faça...fim_para.
+
+V. A estrutura repita...até tem o seu funcionamento controlado por decisão, executando um conjunto de instruções pelo menos uma vez antes de verificar a validade da condição estabelecida. 
+
+Está correto o que se afirma em:
+
+a) I, II, III e IV
+
+b) I, II e III
+
+c) I, IV e V
+
+d) III e IV
+
+e) II, III e V
+
+Resposta: c
+A assertiva I está correta porque um dos comandos de repetição é, de fato: REPITA <sequência-de-comandos> ATE <expressão-lógica>. A afirmativa II está incorreta, pois a estrutura da instrução enquanto...faça...fim_enquanto tem o funcionamento controlado por decisão, e pode executar um determinado conjunto de instruções enquanto a condição verificada for Verdadeira. A afirmativa III está incorreta, pois faltou indicar a etapa de incremento. Desse modo, o comando para correto é: PARA <variável> DE <valor-inicial> ATE <valor-limite> [passo <incremento>] FACA <sequência-de-comandos> FIMPARA. A afirmativa IV é verdadeira, pois os laços que possuem um número finito de execuções podem ser processados pela estrutura para, sendo conseguida com a utilização dos comandos para...de...até...passo...faça...fim_para. Por fim, a assertiva V está correta, pois a estrutura repita...até tem o seu funcionamento controlado por decisão, assim como a estrutura enquanto. A diferença é que o repita executa um conjunto de instruções pelo menos uma vez antes de verificar a validade da condição estabelecida.

@@ -1,0 +1,31 @@
+​Leia o trecho a seguir:
+
+“Variável é tudo que está sujeito a variações, que é incerto, instável ou inconstante [...] O nome de uma variável é utilizado para sua identificação e representação dentro de um programa de computador.”
+
+Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 41.
+
+Com base no conhecimento acerca de Variáveis, analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para a(s) falsa(s).
+
+I. (  ) São nomes válidos de variáveis: nome_usuario, nomeusuario, f1, f_1, x, delta25.
+
+II. (  ) O primeiro caractere de identificação do nome de uma variável pode ser um símbolo gráfico (por exemplo: cifrão, vírgula, ponto e vírgula, traço, parênteses, chaves, colchetes).
+
+III. (  ) Caso deseje separar nomes compostos, deve ser utilizado o caractere de separação "*" asterisco.
+
+IV. (  ) Não pode ser utilizado como nome de variável algum rótulo que seja uma palavra reservada ou mesmo nome de outra variável.
+
+V. (  ) São nomes inválidos de variáveis: nome usuário, fone#, 1x, aluno*2, dia/mes, 25_delta, 5ano3.
+
+Agora, assinale a alternativa que apresenta a sequência correta:
+
+​a) F, V, V, V, F
+
+​b) V, F, F, V, V
+
+​c) V, F, V, F, V
+
+​d) F, V, F, V, F
+
+​e) F, V, V, F, F
+
+Resposta: b

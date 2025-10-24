@@ -1,0 +1,30 @@
+​Leia o trecho a seguir:
+
+“Todo programa de computador deve, de alguma forma, possibilitar a entrada dos dados do mundo exterior, produzir a ação de processamento, tanto em nível lógico quanto matemático e, sempre que essas ações forem necessárias deve, acima de tudo, possibilitar a saída de dados que tenham sido processados ou que estejam apenas armazenados.”
+
+Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 39.
+
+A partir do texto acima e dos conhecimentos sobre Entrada, Processamento e Saída, analise as asserções a seguir e a relação proposta entre elas:
+
+I. Um programa de computador é um conjunto de instruções que, dispostas numa ordem lógica e sequencial, executam uma ou mais ações.
+
+Porque
+
+II. Os programas solucionam problemas a partir de um conjunto de dados de entrada.
+
+a) As asserções I e II são proposições verdadeiras e a II justifica a primeira.
+
+​b) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+
+c) As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+
+d) A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+
+e) As asserções I e II são proposições falsas.
+
+Resposta: c
+A assertiva I é verdadeira porque o programa de computador após receber os dados de entrada faz o processamento, que pode envolver uma operação matemática, lógica ou armazenamento de texto. A assertiva II está correta, mas não é uma justificativa correta da primeira porque um software pode executar ações mesmo sem uma entrada explícita fornecida pelo usuário.
+
+
+
+

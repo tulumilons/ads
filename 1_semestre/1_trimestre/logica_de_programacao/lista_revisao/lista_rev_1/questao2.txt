@@ -1,0 +1,14 @@
+Abaixo temos uma lista de variáveis válidas e/ou inválidas. Indique a alternativa correta que contém somente variável inválida:
+
+a) RG
+
+b) telefone
+
+c) nota1
+
+d) cpf
+
+e) 1tempo
+
+Resposta: e
+Justificativa: o identificador de variável não pode começar com número.

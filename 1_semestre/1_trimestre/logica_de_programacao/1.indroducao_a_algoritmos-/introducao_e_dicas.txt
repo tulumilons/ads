@@ -1,0 +1,5 @@
+	Passos necessários para resolver um problema:
+		1. Conhecer as regras
+		2. Entender o problema proposto
+		3. Indicar o que deve ser feito e em que ordem;
+		4. Executar a sequência de passos e verificar se estes passos realmente resolvem o problema proposto

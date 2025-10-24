@@ -1,0 +1,28 @@
+“A matriz de uma dimensão (vetor) é a forma mais simples de tabela de valores com apenas uma coluna e várias linhas de dados, definida em uma única variável com tamanho específico.”
+
+Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 107.
+
+Com base no conhecimento acerca de Variáveis, analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para a(s) falsa(s).
+
+I. (  ) Os elementos de uma matriz podem ser de tipos de dados distintos.
+
+II. (  ) As matrizes são referenciadas através de suas dimensões na seguinte ordem: quantidade de colunas e linhas.
+
+III. (  ) A dimensão de uma matriz é formada por constantes inteiras e positivas.
+
+IV. (  ) O nome dado a uma variável composta (matriz) segue as mesmas regras dos nomes dados a variáveis simples.
+
+Agora, assinale a alternativa que apresenta a sequência correta:
+
+a) V, F, F, F
+
+b) V, V, V, V
+
+c) F, V, F, F
+
+d) F, F, V, F
+
+e) F, F, V, V
+
+​Resposta: e
+​A afirmativa I é falsa, pois as matrizes são tabelas em memória com dados de um mesmo tipo, que podem ser "construídos" à medida que se fazem necessários. A afirmativa II é  falsa, pois as matrizes são referenciadas através de suas dimensões através da quantidade de linhas e colunas, respectivamente. A  afirmativa III é  verdadeira, visto que a dimensão de uma matriz não pode ser constituída por números fracionários, decimais e nem negativos, apenas inteiros positivos. Por fim, a afirmativa IV é verdadeira  porque uma matriz é um conjunto de variáveis do mesmo tipo, por isso para nomeá-la devem ser seguidas as mesmas regras dos nomes dados a variáveis simples.

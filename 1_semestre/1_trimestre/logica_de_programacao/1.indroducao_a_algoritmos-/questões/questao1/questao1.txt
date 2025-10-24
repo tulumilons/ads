@@ -1,0 +1,10 @@
+"Quando for pensar em uma solução algorítmica para um problema, comece com uma ideia bem abstrata e, aos poucos, aproxime sua ideia do que um computador pode fazer, auxiliado por uma linguagem de programação. Somente quando o algoritmo tiver detalhamento suficiente, implemente-o com uma linguagem de programação.”
+Fonte: RIBEIRO, J. A. Introdução à programação e aos algoritmos. 1. ed. Rio de Janeiro: LTC, 2019, p. 45.
+A partir do texto acima e do conhecimento sobre Algoritmos, assinale abaixo como se chama a estratégia utilizada para a construção de algoritmos que consiste em dividir o problema em problemas menores, até que cada parte seja pequena o bastante para que a solução seja encontrada.
+​1.comutação
+​2.decomposição
+​3.diversificação
+​4.qualificação
+​5.variação
+
+resposta: 2

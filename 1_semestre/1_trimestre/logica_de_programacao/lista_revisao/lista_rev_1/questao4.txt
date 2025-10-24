@@ -1,0 +1,14 @@
+Com base no conhecimento sobre Entrada, Processamento e Saída é correto afirmar:
+
+a) Um programa tem como objetivo propor um problema para o usuário resolver.
+
+b) A etapa de entrada de dados é a parte em que o computador recebe os dados do mundo externo.
+
+c) Os passos para a resolução de problemas são, respectivamente: criação da sequência de operações, execução da sequência, entendimento do problema e verificação da solução.
+
+d) Na etapa de processamento de dados, por meio de um programa (hardware), o computador mostra dados na tela.
+
+e) Na etapa de entrada de dados, o computador envia os dados processados para o mundo externo.
+
+Resposta: b
+Justificativa: A etapa de entrada de dados é a parte em que o computador recebe os dados do mundo externo, podendo armazenar esses dados na memória principal para a efetivação de algum tipo de processamento ou na memória secundária para uso no momento oportuno.

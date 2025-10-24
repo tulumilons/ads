@@ -1,0 +1,33 @@
+​Leia o trecho a seguir:
+
+Podem ser categorizados em três tipos primitivos ou básicos: numéricos (representados por valores numéricos inteiros ou reais), caracteres [literais] (valores alfabéticos ou alfanuméricos) e lógicos (valores falsos e verdadeiros).
+
+A partir do texto acima e dos seus conhecimentos sobre Tipos de Dados e Instruções Primitivas, analise os tipos de dados abaixo e associe-os com suas respectivas características.
+
+1) Inteiros
+
+2) Reais
+
+(  ) 35, 0, 234, -56 e -9
+
+(  ) 35, 0, -56, -9, -45.999 e 4.5
+
+(  ) 7, ½, -85.9, 0.2 e -10
+
+(  ) 7, -1, 555, -125, 8 e -10
+
+(  ) 0.667, -128, ⅓ e 40
+
+Agora, assinale a alternativa que apresenta a sequência correta:
+​
+a) 2, 1, 1, 2, 1.
+
+​b) 1, 2, 2, 1, 2.
+
+​c) 1, 2, 1, 2, 1.
+
+​d) 2, 1, 2, 1, 2.
+
+​e) 1, 2, 1, 2, 2.
+
+Resposta: b

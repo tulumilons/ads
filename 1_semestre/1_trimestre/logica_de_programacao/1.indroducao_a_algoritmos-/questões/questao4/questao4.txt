@@ -1,0 +1,24 @@
+Leia os textos a seguir:
+Texto 1
+“Leia cada palavra do dicionário até encontrar a palavra procurada ou não restarem mais palavras a serem lidas. Se encontrar a palavra, imprima seu significado.”
+
+Texto 2
+“Passo 1: Leia a primeira palavra do dicionário.
+Passo 2: Se for a palavra procurada, imprima a definição e termine.
+Passo 3: Se for a última palavra, imprima “Palavra não existe” e termine.
+Passo 4: Leia a próxima palavra.
+Passo 5: Volte para o passo 2.”
+
+A professora Débora propôs à turma a seguinte tarefa: Escreva um algoritmo para ensinar um computador como achar uma palavra no dicionário. O texto 1 mostra a resposta de João e o texto 2 exibe a resposta de Tatiana.  Com base nos textos e nos conteúdos abordados sobre Algoritmos, é correto afirmar que:
+
+a) O texto 1 é um algoritmo, pois tem detalhes suficientes para poder ser traduzido em uma linguagem de programação. O texto 2 não é um algoritmo, porque os computadores possuem inteligência própria já sabem como se organiza um dicionário.
+
+b) O texto 2 é um algoritmo (escrito em linguagem natural), pois tem detalhes suficientes para poder ser traduzido em uma linguagem de programação. O texto 1 é apenas uma ideia em forma de texto livre, não possui passos definidos, sendo assim, não se caracteriza como um algoritmo.
+
+c) O texto 2 não é um algoritmo, pois não tem detalhes suficientes para poder ser traduzido em uma linguagem de programação. O texto 1 é um algoritmo, porque os computadores possuem inteligência suficiente para, a partir da frase, identificar o significado de uma palavra no dicionário.
+
+d) O texto 1 e 2 são algoritmos, pois ambos têm detalhes suficientes para serem traduzidos em uma linguagem de programação.
+
+e) O texto 1 e 2 não são algoritmos, pois ambos não fornecem informações suficientes para que um computador seja capaz de procurar o significado de uma palavra no dicionário.
+
+Resposta: b

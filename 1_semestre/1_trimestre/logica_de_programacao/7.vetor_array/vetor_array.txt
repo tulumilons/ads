@@ -1,0 +1,8 @@
+Estrutura Homogênea Unidimensional
+	Estrutura de dados muito simples, também conhecida como vetor ou array
+	Possui apenas uma dimensão e pode armazenar diversas variáveis do mesmo tipo
+	Cada item (ou elemento) do vetor pode ser acessado por um índice
+
+Vetor
+	Definição
+		Uma variável que armazena várias variáveis do mesmo tipo

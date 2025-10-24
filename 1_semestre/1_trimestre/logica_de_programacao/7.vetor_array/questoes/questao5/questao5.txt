@@ -1,0 +1,27 @@
+​(CESPE/ CEBRASPE - Adaptada) Leia o trecho a seguir:
+
+“[...] o vetor ocupa uma área de memória contígua, portanto, o segundo elemento está na memória logo após o primeiro elemento; o terceiro, após o segundo; e assim até que o último elemento esteja após o penúltimo. Um vetor de n elementos inteiros ocupa a memória equivalente a pelo menos n inteiros.”
+
+Fonte: RIBEIRO, J. A. Introdução à programação e aos algoritmos. 1. ed. Rio de Janeiro: LTC, 2019, p. 136.
+
+A partir do texto acima e dos conhecimentos sobre Vetor/Array, considere a afirmativas a seguir: 
+
+I. Vetores são utilizados quando estruturas indexadas necessitam de mais que um índice para identificar um de seus elementos.
+
+II. Vetores podem ser considerados como listas de informações armazenadas em posição contígua na memória.
+
+III. Uma posição específica de um vetor pode ser acessada diretamente por meio de seu índice.
+
+Está correto o que se afirma em:
+​a) I e II.
+
+b) I e III.
+
+c) II e III.
+
+d) I, II e III
+
+e) apenas II.
+
+Resposta: c
+​A assertiva I está incorreta porque os vetores são unidimensionais, portanto, apresentam um índice. Se existisse mais de um índice ao invés de um vetor teríamos uma matriz. A assertiva II está correta, pois um vetor pode armazenar uma coleção de valores do mesmo tipo, de tal modo que os elementos da coleção são armazenados em posições contíguas de memória. A assertiva III está correta porque a forma de acesso aos elementos de um array é direta, isto quer dizer que o elemento desejado é obtido a partir do seu índice e não é preciso buscar elemento por elemento.

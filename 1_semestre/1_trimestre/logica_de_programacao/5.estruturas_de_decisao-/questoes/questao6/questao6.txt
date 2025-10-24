@@ -1,0 +1,37 @@
+​Leia o trecho a seguir:
+
+“Existem casos em que é necessário estabelecer verificações de condições sucessivas, em que uma ação pode ser executada se um conjunto anterior de instruções ou condições for satisfeito. Sendo a ação executada, ela pode ainda estabelecer novas condições, o que significa fazer uso de uma condição dentro de outra condição.”
+
+Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 69.
+
+A partir do texto e dos seus conhecimentos sobre Tomada de Decisão, a estrutura descrita torna possível a realização de múltiplas verificações condicionais em um pseudocódigo, sendo conhecida como:
+
+​a) Desvio Condicional Composto ou Sequencial
+
+b) Desvio Condicional Simples
+
+c) Desvio Condicional Aninhado ou Encadeado.
+
+d) Laço de repetição
+
+e) Desvio Condicional por Seleção
+
+​Resposta: c
+​O Desvio Condicional Aninhado ou Encadeado permite realizar verificações condicionais múltiplas. A seguir veja um exemplo desse tipo de estrutura:
+
+se (<condição1>) entao
+
+<instruções para condição1 verdadeira>
+
+senao
+se (<condição2>) entao
+
+    <instruções para condição2 verdadeira, porém condição1 falsa>
+
+  senao
+  <instruções para condição1 e condição2 falsa>
+
+  fimse
+fimse
+
+​

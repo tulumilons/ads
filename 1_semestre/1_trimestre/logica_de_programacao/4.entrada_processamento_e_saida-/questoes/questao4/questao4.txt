@@ -1,0 +1,44 @@
+​Leia o trecho a seguir:
+
+“Facilmente se consegue analisar as variáveis, os dados de entrada e de saída e que facilmente os conceitos de declaração e entrada e saída de dados podem ser aplicados em algoritmos na solução de problemas."
+
+Fonte: MORAIS, I. S. de. et al. Algoritmo e Programação. 1. ed.São Paulo: SAGAH EDUCAÇÃO, 2018, p. 28.
+
+A partir do texto acima e dos conhecimentos sobre Entrada, Processamento e Saída, analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para a(s) falsa(s):
+
+I. (   ) O comando utilizado para atribuir um valor digitado pelo usuário em uma determinada variável chamada numero utilizando pseudocódigo é: Escreva(“numero”)
+
+II. (   ) O pseudocódigo abaixo serve para informar ao usuário o valor do ingresso que deverá ser cobrado para a entrada no cinema:
+
+SE (IDADE < 18) OU (PROFISSÃO = ESTUDANTE) OU
+
+(PROFISSÃO = PROFESSOR) ENTÃO
+
+IMPRIMA (‘VALOR DO INGRESSO IGUAL A 10 REAIS’)
+
+SENÃO
+
+IMPRIMA (‘VALOR DO INGRESSO IGUAL A 20 REAIS’)
+
+FIM SE
+Nesse caso, as entradas são: idade e profissão.
+
+III. (  ) Um programador deseja realizar a pergunta Qual é o seu nome? para o usuário e depois pular uma linha. A instrução correta que executa o que o programador deseja é: Escreval(“Qual é o seu nome?”).
+
+IV. (   ) O computador é uma máquina que processa informação a partir de dados de entrada fornecidos pelos usuários, sensores ou outros sistemas de informação. A partir desses dados de entrada, o computador pode gerar uma saída de informações visuais em forma de gráficos, relatórios, objetos em 3D, etc. 
+
+Agora, assinale a alternativa que apresenta a sequência correta:
+
+​a) V, F, F, V
+
+​b) F, V, V, V
+
+​c) V, F, V, F
+
+​d) F, V, F, V
+
+e) F, V, V, F
+
+Resposta: b
+
+​

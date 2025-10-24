@@ -1,0 +1,18 @@
+Uma técnica de programação que permite trabalhar com o agrupamento de várias informações em uma mesma variável é o agrupamento do mesmo tipo de dado, e por esta razão, denomina-se estrutura de dado homogênea ou matriz.
+
+Fonte: RIBEIRO, J. A. Introdução à programação e aos algoritmos. 1. ed. Rio de Janeiro: LTC, 2019.
+
+Com base nessas informações e no conteúdo estudado sobre Matrizes, analise a figura abaixo e associe-a com a dimensão correta.
+
+a) Matriz 1 x 4
+
+b) Matriz 4 x 1
+
+c) Matriz 2 x 2
+
+d) Matriz 2 x 3
+
+e) Matriz 0 x 6
+
+Resposta: d
+A matriz apresentada na figura possui 2 linhas e 3 colunas, o que corresponde à dimensão 2 x 3. A organização de matrizes é baseada na quantidade de linhas e colunas que a compõem, seguindo a notação número de linhas x número de colunas.

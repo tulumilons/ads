@@ -1,0 +1,22 @@
+​Leia o texto a seguir:
+
+Um estudante estava desenvolvendo um algoritmo para somar valores até o usuário digitar o valor 0, utilizando a ferramenta VisuAlg. O algoritmo é mostrado abaixo:
+
+
+resultado do algoritmo segue abaixo:
+
+
+​Com base na execução do algoritmo, que apresenta a soma acumulada a cada valor digitado e encerra ao receber o valor 0, assinale a alternativa que explique corretamente o funcionamento do algoritmo:
+
+​a) Ele somará os valores que o usuário digitar, e o loop acabará quando ele digitar 0. A cada iteração, o valor atual da soma é mostrado.
+
+b) Ele somará apenas os valores pares que o usuário digitar, e o loop acabará quando ele digitar 0. A cada iteração, o valor atual da soma é mostrado.
+
+c) Ele somará apenas os valores ímpares que o usuário digitar, e o loop acabará quando ele digitar 0. A cada iteração, o valor atual da soma é mostrado.
+
+d) Ele somará apenas os valores primos que o usuário digitar, e o loop acabará quando ele digitar 0. A cada iteração, os valores das duas somas anteriores são mostrados.
+
+e) Ele somará todos os valores que o usuário digitar, e o loop acabará quando ele digitar um número negativo. A cada iteração, o valor atual da soma é mostrado.
+
+Resposta: a
+​As estruturas de repetição são muito utilizadas na área de desenvolvimento de softwares para resolver problemas que precisam executar tarefas repetidas vezes. Para o algoritmo mostrado, o programa vai somar todos os valores que o usuário digitar e, a cada iteração do loop, será apresentado o resultado atual da soma. Entretanto, quando ele digitar 0, o "loop" acabará.

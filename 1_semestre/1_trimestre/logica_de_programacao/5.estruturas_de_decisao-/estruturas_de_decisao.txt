@@ -1,0 +1,13 @@
+Estruturas de Decisão
+	Estruturas de Controle
+		Comandos de controle são a essência de qualquer linguagem
+		Gerenciam o fluxo da execução do programa
+		Estruturas de Controle
+			-Se
+			-Não
+
+	Estrutura de Seleção Múltipla
+		Determinam qual a ação a ser tomada com base no resultado de uma seleção
+		Permitem selecionar entre ações alternativas dependendo de critérios desenvolvidos no decorrer da execução do programa
+		Estrutura de Seleção
+			Escolha-caso

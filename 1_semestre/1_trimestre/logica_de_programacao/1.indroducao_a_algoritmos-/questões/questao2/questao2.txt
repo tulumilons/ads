@@ -1,0 +1,22 @@
+(CESPE/ CEBRASPE - Adaptada) Leia o trecho a seguir:
+
+​Na escola Nossa Casa, utiliza-se um algoritmo para o cálculo da média de determinado aluno utilizando a fórmula média = (P1 + 2*P2) / 3, em que P1 e P2 referem-se, respectivamente, às notas do aluno na primeira e na segunda prova. A média mínima necessária para que o aluno seja aprovado numa disciplina é 6.
+
+A partir do texto acima e dos conhecimentos sobre Algoritmos, considere a afirmativas a seguir:
+
+I. Douglas obteve nota 6,0 na primeira prova e 5,0 na segunda, portanto, ele será aprovado.
+
+II. Juliana obteve nota 4,0 na primeira prova e 7,0 na segunda, portanto, ela será aprovada.
+
+III. José obteve nota 2,0 na primeira prova e 8,0 na segunda, portanto, ele será aprovado.
+
+IV. Karina obteve nota 4,0 na primeira prova e 6,0 na segunda, portanto, ela será aprovada.
+Está correto o que se afirma em:
+
+1. II, III e IV
+2. I e III
+3. II e III
+4. III e IV
+​5. I, II e III
+
+Resposta: 3

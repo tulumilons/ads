@@ -1,0 +1,20 @@
+​Leia o trecho a seguir:
+
+Um programa tem como objetivo resolver um problema e, para isso, geralmente é necessário promover a entrada de dados. Esses dados serão processados e, como resposta, será emitida uma saída de dados, que consiste na solução do problema em questão.
+
+Com base no conhecimento sobre Entrada, Processamento e Saída, observe o diagrama abaixo:
+
+
+​Ao desenvolver o algoritmo que originou o fluxograma acima, o programador percebeu que realizou a soma, quando o que ele desejava de fato era realizar a multiplicação de A e B. Assinale a alternativa que descreve a forma de corrigir o algoritmo e o diagrama alterando o mínimo possível a sua estrutura.
+
+​a) Alterar as variáveis de entrada para C e D e na etapa de processamento substituir x <- A+B por x <- C*D
+
+​b) Se o programador efetuar alterações no algoritmo ele perderá a sua validade e não alcançará o resultado desejado.
+
+​c) Alterar as variáveis de entrada para C e D e na etapa de processamento substituir x <- A+B por x <- C+D
+
+​d) Na etapa de processamento substituir x <- A+B por x <- AxB
+
+​e) Na etapa de processamento substituir x <- A+B por x <- A*B
+
+Resposta: e

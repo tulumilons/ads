@@ -1,0 +1,30 @@
+Sabemos que Estrutura de controle são essenciais para qualquer linguagem. Analise o seguinte algoritmo:
+
+
+Algoritmo “PRODUTOEMPROMOCAO”
+Var
+PRECO: real
+Inicio
+ESCREVA (“Digite o Valor do Produto: “)
+LEIA (PRECO)
+SE (PRECO < 30) ENTAO
+            ESCREVA (“ESTE PRODUTO ESTÁ EM PROMOÇÃO“)
+SENAO
+            ESCREVA (“ESTE PRODUTO NÃO FAZ PARTE DA PROMOÇÃO“)
+FIMSE
+Fimalgoritmo
+
+Caso o usuário digite o valor de 35 reais, o que será exibido? Indique a seguir qual a alternativa corresponde a resposta que o algoritmo irá exibir:
+
+a) ESTE PRODUTO ESTÁ EM PROMOÇÃO
+
+b) ESTE PRODUTO NÃO FAZ PARTE DA PROMOÇÃO
+
+c) ESTE PRODUTO NÃO FAZ PARTE DA LISTA
+
+d) ESTE PRODUTO NÃO FOI CADASTRADO
+
+e) Não será exibido nenhuma informação, pois o valor inserido é um tipo de dado inteiro.
+
+Resposta: b
+Justificativa: Como o usuário digitou o valor de 35 reais, no caso da estrutura de controle vai para o resultado que encontra-se no SENAO: ESTE PRODUTO NÃO FAZ PARTE DA PROMOÇÃO

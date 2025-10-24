@@ -1,0 +1,26 @@
+​Leia o trecho a seguir:
+
+"Imagine que a memória principal de um computador é um arquivo com muitas gavetas, e cada uma delas pode armazenar apenas um valor por vez, seja um dado inteiro, real, lógico ou caractere [literal]. Por ser um arquivo com várias gavetas, é necessário que cada uma das gavetas seja identificada com um nome, portanto o valor armazenado pode ser utilizado a qualquer momento.”
+
+Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 40.
+
+A partir do texto acima e dos conhecimentos sobre Variáveis e Constantes, analise a figura a seguir:
+
+Figura 1 - Arquivo de gavetas identificadas por etiquetas representando a memória de um computador.
+
+
+Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 40.
+
+Essa analogia explica corretamente a definição de:
+​
+a) Constante
+
+b) Valor
+
+c) Variável
+
+d) Operadores aritméticos
+
+e) Operadores lógicos
+
+​Resposta: c

@@ -1,0 +1,48 @@
+(FCC - Adaptada) Considere o vetor vet a seguir:
+
+
+​Agora analise a seguinte sequência de comandos de atribuição que foi feita por um profissional de programação:
+
+aux ← vet[8]
+
+vet[8] ←vet [1]
+
+vet[4] ← vet[6]
+
+vet[6] ← vet[3]
+
+vet[3] ← vet[1] ← aux
+
+A configuração do vetor (do índice 1 ao 8) será:
+
+
+​a) ZONAAMAS​
+
+​b) AMASZONA
+
+​c) SMAZONAS
+
+​d) AMASSONA
+
+​e) AMAZONAS
+
+Resposta: e
+​A execução dos comandos descritos no enunciado é detalhada abaixo.
+
+aux ← vet[8]
+
+vet[8=A] ←vet [1=S]
+
+vet[4=A] ← vet[6=Z]
+
+vet[6=Z] ← vet[3=N]
+
+vet[3=N] ← vet[1=A] ← aux
+
+Assim, teremos:
+
+1º A M N A O Z A S
+
+2º A M N Z O A A S
+
+3º A M A Z O N A S.

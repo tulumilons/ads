@@ -1,0 +1,22 @@
+​(Quadrix - Adaptada) Leia o trecho a seguir:
+
+Dada uma declaração de matriz de duas dimensões e uma atribuição:
+
+(1) declarar M[5,4] : literal
+
+(2) M[4,3]￩"ABC"
+
+A literal "ABC" foi armazenada na posição representada pelas dimensões linha e coluna:
+
+​a) 4 e 3.
+
+b) 5 e 4.
+
+​c) 3 e 4.
+
+d) 4 e 5.
+
+​e) 5 e 3.
+
+Resposta: a
+​A literal "ABC" foi armazenada na posição [4, 3], portanto, caracteriza-se pelas dimensões linha e coluna 4 e 3.

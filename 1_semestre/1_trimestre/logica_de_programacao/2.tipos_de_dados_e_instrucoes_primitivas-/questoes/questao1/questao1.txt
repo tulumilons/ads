@@ -1,0 +1,26 @@
+Leia o trecho a seguir:
+
+“Um algoritmo manipula dados, ou seja, informações, mas devemos formalizar como é possível representar uma informação no seu algoritmo. Lembre-se de que [...] dados são abstrações. Você é quem deve dizer ao computador o que essas abstrações significam. Cada dado manipulado será representado por um nome que chamamos de identificador. Assim, um identificador é um nome que identifica de forma inequívoca as abstrações que você cria dentro de um algoritmo” (grifo do autor).
+
+Fonte: RIBEIRO, J. A. Introdução à programação e aos algoritmos. 1. ed. Rio de Janeiro: LTC, 2019, p. 49.
+
+Com base no texto acima e nos conteúdos abordados sobre Tipos de Dados e Instruções Primitivas, considere as afirmativas a seguir:
+
+I. Uma variável recebeu o seguinte dado: “234”, portanto, esse dado é do tipo literal.
+
+II. Uma variável recebeu o seguinte dado: 234, portanto, esse dado é do tipo lógico.
+
+III. Uma variável recebeu o seguinte dado: 234.00, portanto, esse dado é do tipo real
+
+Está correto o que se afirma em:
+​a) II e III
+
+​b) I e II
+
+c) apenas I
+
+d) I e III
+
+​e) I, II e III
+
+Resposta: d

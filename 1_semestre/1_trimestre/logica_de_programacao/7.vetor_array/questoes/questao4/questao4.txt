@@ -1,0 +1,31 @@
+(IDECAN - Adaptada) Leia o trecho a seguir:
+
+Arrays são consideradas estruturas de dados que consistem em itens de dados do mesmo tipo. É um grupo de posições de memória adjacentes, que possuem o mesmo nome e tipo.
+
+Com base no texto acima e nos seus conhecimentos sobre Vetor/Array, analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para a(s) falsa(s).
+
+I. (  ) Arrays podem ser declarados para armazenar qualquer tipo de dado primitivo ou objeto, desde que todos os elementos sejam do mesmo tipo.
+II. (  ) Em um array declarado com tipos primitivos, todos os elementos obrigatoriamente possuem valores do tipo declarado, assumindo valores padrão caso não sejam explicitamente inicializados.
+III. (  ) Uma variável comum const pode ser declarada e inicializada na mesma seção de variáveis que um vetor.
+
+IV. (  ) O número da posição em colchetes é mais formalmente chamado de índice. Esse número deve ser um inteiro.
+Agora, assinale a alternativa que apresenta a sequência correta:
+
+​a) F, V, F, F.
+
+​b) V, V, V, V.
+
+​c) F, F, V, F.
+
+​d) V, F, V, V.
+
+​e) F, F, F, F.
+
+Resposta: b
+A afirmativa I é verdadeira pois é a definição fundamental de um array: a homogeneidade. Pode-se ter um array de inteiros, um array de strings, ou um array de qualquer objeto que você criar, mas todos os itens dentro daquele array específico devem ser do mesmo tipo.
+
+A afirmativa II é verdadeira pois um array de tipos primitivos é inicializado, cada um de seus elementos é automaticamente inicializado com um valor padrão, caso não seja explicitamente inicializado. Isso garante que os elementos do array sempre terão um valor válido do tipo declarado, em vez de ficarem com valores indefinidos ou lixo de memória.
+
+A afirmativa III é verdadeira pois um bloco de código define um escopo, e a sintaxe permite declarar diferentes tipos de variáveis dentro deste mesmo espaço. Não há nenhuma regra que impeça a declaração de uma constante (const) e de um array (vetor) juntos. Ambos são simplesmente registrados na tabela de símbolos daquele escopo para uso posterior no programa.
+
+A afirmativa IV é verdadeira. O termo técnico usado para indicar a posição de um elemento em um array é "índice". Por definição, esse índice precisa ser um número inteiro, já que ele representa uma contagem de posições de memória, começando do primeiro elemento do array.

@@ -1,0 +1,20 @@
+​(IFPA - Adaptada) Leia o trecho a seguir:
+
+“A informação é constituída pelos dados tratados – o resultado do processamento de dados são as informações. As informações têm significado e podem contribuir no processo de tomada de decisões.”
+
+Fonte: MORAIS, I. S. de. et al. Algoritmo e Programação. 1. ed. São Paulo: SAGAH EDUCAÇÃO, 2018, p. 12.
+
+A partir do texto acima e do conhecimento sobre Tipos de Dados e Instruções Primitivas, assinale abaixo a alternativa que apresenta dois tipos de dados usados para a criação de programas.
+
+a) Inteiro e ponteiro
+
+b) Vetor e matriz
+
+​c) Lógico e vetor
+
+​d) Conjunto e numérico
+
+​e) Real e literal
+
+Resposta: e
+Resposta dada na plataforma diz ser a a)

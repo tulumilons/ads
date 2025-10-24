@@ -1,0 +1,39 @@
+​Leia o trecho a seguir:
+
+“[...] o que é um dado? Dados ... constituem a matéria-prima da informação, ou seja, é a informação não tratada que ainda não apresenta relevância [...] Os dados podem ser classificados conforme seu tipo.”
+
+Fonte: MORAIS, I. S. de. et al. Algoritmo e Programação. 1. ed.São Paulo: SAGAH EDUCAÇÃO, 2018, p. 12.
+
+Com base nessas informações e no conteúdo estudado acerca dos Tipos de Dados e Instruções Primitivas, analise os tipos de dados abaixo e associe-os com suas respectivas características.
+
+1. Dados Reais
+
+2. Dados Lógicos
+
+3. Dados Literais
+
+4. Dados numéricos inteiros
+
+( ) Exemplos de dados desse tipo são a idade de uma pessoa e a quantidade de itens de um estoque.
+
+( ) Esse tipo abrange os números que possuem casas decimais, ou seja, os números fracionários.
+
+( ) Incluem os textos, que podem conter letras, números e caracteres especiais. 
+
+( ) Exemplos de dados desse tipo são a altura de uma pessoa ou o peso de um determinado produto.
+
+( ) Esse tipo abrange os números que não possuem casas decimais.
+
+( ) Esse tipo de dado só pode conter duas informações: verdadeiro ou falso.
+
+​a) 3, 1, 4, 1, 3, 2
+
+​b) 1, 2, 3, 2, 4, 1
+
+​c) 1, 4, 2, 4, 2, 3
+
+​d) 4, 1, 3, 1, 4, 2
+
+​e) 2, 3, 1, 3, 1, 4
+
+Resposta: d

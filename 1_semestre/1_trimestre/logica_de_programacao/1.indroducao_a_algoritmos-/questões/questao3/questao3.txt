@@ -1,0 +1,17 @@
+Leia o trecho a seguir: “Ada Lovelace é considerada a primeira pessoa que escreveu um algoritmo para ser processado por máquina. Nascida em 1815, trabalhou com Charles Babbage quando este estava desenvolvendo a sua máquina analítica, uma das primeiras ideias de construção de computadores. Entre os anos de 1842 e 1843, Ada escreveu o que é considerado o primeiro algoritmo computacional, descrevendo como calcular a Sequência de Bernoulli por intermédio da máquina desenvolvida por Babbage. Infelizmente, a máquina de Babbage não chegou a ser construída no decorrer de sua vida.” Fonte: RIBEIRO, J. A. Introdução à programação e aos algoritmos. 1. ed. Rio de Janeiro: LTC, 2019, p. 43. A partir do texto acima e dos conhecimentos sobre Algoritmos, analise as asserções a seguir e a relação proposta entre elas:
+
+I. O algoritmo ilustra uma série de etapas em uma ordem específica, seguindo o raciocínio lógico Porque
+
+II. A partir do algoritmo, descrito em linguagem natural, pode-se construir um fluxograma, composto por símbolos que representam os passos deste algoritmo, ou seja, o tipo de ação a ser executada.​
+
+a) As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+
+ b) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+
+ c) As asserções I e II são proposições falsas.
+
+ d) As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+
+ e) A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+
+Resposta: d)

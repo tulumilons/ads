@@ -1,0 +1,29 @@
+​Leia o trecho a seguir:
+
+Gustavo foi até o supermercado Ki Comprinhas para fazer a feira da semana. Ao se dirigir até o caixa, Gustavo depositou os seus produtos sobre a esteira e a funcionária passou o código de barras de cada produto no leitor. No final, o software exibiu a lista de todos os itens adquiridos, com os respectivos valores de cada um, e exibiu o valor total a ser pago.
+
+Com base no conhecimento sobre Entrada, Processamento e Saída, considere a afirmativas a seguir:
+
+I. Ao passar os produtos no leitor de código de barras a funcionária entrou com os dados de cada produto no software. Portanto, trata-se de uma entrada dos dados.
+
+II.  Gustavo olhou para a lista de itens exibida na tela do computador do caixa e constatou que o item 3, o iogurte, estava com o preço diferente da prateleira onde pegou o produto. Essa lista de itens constitui uma saída de dados.
+
+III. Gustavo olhou para tela e verificou que o valor total foi R$245,70. Esse valor consiste no resultado da soma dos valores dos itens, portanto, é uma saída.
+
+IV. Depois que Gustavo efetuou o pagamento, a funcionária emitiu a nota fiscal de compra. A nota fiscal que ele recebeu é um processamento, pois consiste na ação de solucionar o problema da compra de produtos.
+
+V. Assim que Gustavo saiu do supermercado faltou energia elétrica. Diante disso, a funcionária precisou utilizar uma calculadora de mesa para somar os valores dos produtos da cliente seguinte. O ato da máquina calcular o valor total a ser pago constitui uma entrada de dados.
+
+Está correto o que se afirma em:
+
+​a) I, II e III
+
+​b) II, IIII e V
+
+​c) I e IV
+
+​d) II e III
+
+​e) II e V
+
+Resposta: a

@@ -1,0 +1,34 @@
+​(CESPE / CEBRASPE - Adaptada) Leia o trecho a seguir:
+
+“Imagine a seguinte situação: um programa que apresenta a média escolar de um aluno. Até aqui, muito simples, mas além de calcular a média, o programa deve apresentar se ele está aprovado ou reprovado, segundo a análise de sua média. Será necessário verificar a média do aluno para então tomar uma decisão no sentido de apresentar a sua real situação: aprovado ou reprovado. Para solucionar o problema proposto, é necessário trabalhar uma nova instrução [...] Sendo a condição Verdadeira, serão executadas todas as instruções que estejam entre o comando se...então ou, se for Falsa, outros comandos e o comando fim_se.” (grifo do autor).
+Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 60.
+
+A partir do texto acima e dos conhecimentos sobre Tomada de Decisão, analise o diagrama a seguir:
+
+
+​A estrutura lógica presente no diagrama apresentado é do tipo:
+
+a) SE ENTÃO.
+
+​b) CASO SELECIONE.
+
+​c) CASO REPITA
+
+​d) SE ENTÃO SENÃO.
+
+​e) SE SOMENTE SE.
+
+Resposta: d
+​A partir do resultado de uma expressão booleana (VERDADEIRO ou FALSO), o fluxo do algoritmo segue para um bloco de instruções ou não, visto que o bloco de código SENÃO é opcional. No diagrama da questão é utilizada essa estrutura, a qual apresenta as seguintes características:
+
+SE expressão booleana
+
+ENTÃO
+
+         instruções a serem executadas caso a expressão booleana resulte em VERDADEIRO
+
+SENÃO
+
+        instruções a serem executadas caso a expressão booleana resulte em FALSO
+
+FIM-SE

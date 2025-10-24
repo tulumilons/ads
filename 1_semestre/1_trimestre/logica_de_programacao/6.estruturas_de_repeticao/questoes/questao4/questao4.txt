@@ -1,0 +1,30 @@
+​(EsFCEx) Leia o trecho a seguir:
+
+Uma estrutura de repetição é uma estrutura de desvio do fluxo de controle presente em linguagens de programação que realiza e repete diferentes ações, dependendo se uma condição for verdadeira ou falsa, em que a expressão é processada e transformada em um valor booleano.
+
+Com base no texto acima e nos seus conhecimentos sobre Repetição, analise as afirmativas a seguir:
+
+I. Em uma estrutura de repetição do tipo PARA, o controle do laço é feito pelo uso de uma variável lógica, que é iniciada como VERDADEIRA, encerrando o laço ao ter seu valor modificado para FALSO.
+
+II. Na estrutura de repetição do tipo ENQUANTO, o teste do controle é realizado por um teste lógico, no início do laço, e se esse teste for FALSO, logo na primeira execução, o laço não será executado nenhuma vez.
+
+III. Apenas as estruturas de repetição do tipo PARA e REPITA possuem controle do laço por meio de variáveis lógicas.
+
+IV. Na estrutura de repetição do tipo REPITA, o laço é executado pelo menos uma vez, pois o controle é realizado no final do laço apenas.
+
+Está correto o que se afirma em:
+
+​a) apenas I.
+
+​b) apenas II.
+
+c) III e IV.
+
+​d) II e IV.
+
+​e) apenas a afirmativa IV.
+
+Resposta: d
+​A afirmativa I está incorreta, pois a em uma estrutura de repetição do tipo ENQUANTO é que o controle do laço é feito pelo uso de uma variável lógica, que é iniciada como VERDADEIRA, encerrando o laço ao ter seu valor modificado para FALSO. A afirmativa II está correta, pois o computador só entra na estrutura ENQUANTO se a expressão pré-estabelecida for verdadeira. A afirmativa III está incorreta, pois as três estruturas de repetição, ENQUANTO, PARA e REPITA possuem controle do laço por meio de variáveis lógicas. A afirmativa IV está correta, pois na estrutura REPITA sempre será executado o primeiro laço, visto que o controle é feito no final do laço. 
+
+​

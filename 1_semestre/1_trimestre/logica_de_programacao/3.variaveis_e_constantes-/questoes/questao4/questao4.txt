@@ -1,0 +1,25 @@
+​Leia o trecho a seguir:
+
+“Do ponto de vista computacional, semelhante ao conceito matemático ou científico, uma constante é uma grandeza numérica fixa, utilizada normalmente numa expressão aritmética ou matemática, a qual define um valor que será inalterado na expressão, independentemente das variáveis envolvidas na operação a ser realizada.”
+
+Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 43.
+
+Com base no texto acima e nos conteúdos abordados sobre Variáveis e Constantes, analise as asserções a seguir e a relação proposta entre elas:
+
+I. A forma correta de atribuir o valor 8 em uma variável chamada resultado é resultado <- 8.
+
+Porque
+
+II. O comando correto para atribuir um valor a uma variável é variável <- valor.
+
+a) As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+
+b) A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+
+c) A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+
+d) As asserções I e II são proposições falsas.
+
+e) As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+
+Resposta: e

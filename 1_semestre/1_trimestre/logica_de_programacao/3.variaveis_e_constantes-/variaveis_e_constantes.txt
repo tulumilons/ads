@@ -1,0 +1,57 @@
+Variáveis e Constantes
+	Variáveis
+		Uma variável armazena um valor de determinado tipo que pode variar ao longo da execução do programa
+
+		Identificador da Variável
+			Nome único criado pelo programador
+			Não pode ser uma palavra reservada 
+			Não pode conter espaços em branco
+			Pode conter apenas letras, dígitos e sublinha
+			Deve começar com uma letra (por padrão utilizam-se letras minúsculas
+			Deve permitir a identificação do valor que representa. Exemplo: idade, nome, etc.
+
+	Variáveis Válidas e Inválidas
+		Válidas
+			idade
+			a1
+			nota_01
+			telefone
+			nota3prova1
+		Inválidas
+			1dia
+			salário do empregado
+			nota-1
+			ddd/telefone
+			3prova1
+
+	Constantes
+		Tudo aquilo que é fixo ou estável
+		Dado cujo valor se manterá inalterado toda vez que o programa for utilizado
+
+	Operadores 
+		Variáveis e Constantes podem ser utilizadas para cálculos numéricos
+		Operadores são utilizados para executar cálculos numéricos e relacionar expressões. São eles:
+			-Aritméticos
+			-Relacionais
+			-Lógicos
+
+		Operadores Aritméticos
+			Unários
+				Inversão de valor
+			Binários
+				Atuam em operações de exponenciação, multiplicação, divisão, adição e subtração
+
+		Operadores Relacionais
+			Utilizados para relacionar expressões
+			Expressões:
+				Combinação de variáveis, constantes e operadores que, quando avaliada resulta em um valor
+			Expressão aritmética
+				Resulta em um número (inteiro ou real)
+			Expressão lógica:
+				Resulta em VERDADEIRO ou FALSO
+
+		Operadores Lógicos
+			São utilizados em expressões lógicas E, OU e NÃO
+			Sempre resultam em VERDADEIRO ou FALSO
+			
+				

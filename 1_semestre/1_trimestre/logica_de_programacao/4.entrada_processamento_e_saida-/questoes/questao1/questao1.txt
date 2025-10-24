@@ -1,0 +1,31 @@
+​Leia o trecho a seguir:
+
+“O computador, independentemente de ser de grande, médio ou pequeno porte, executa basicamente três ações de trabalho, sendo: a entrada de dados; o processamento de dados; e a saída de dados.”
+
+Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 39.
+
+Com base no conhecimento sobre Entrada, Processamento e Saída, analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para a(s) falsa(s).
+
+I. (  ) Um programa tem como objetivo propor um problema para o usuário resolver.
+
+II. (  ) A etapa de entrada de dados é a parte em que o computador recebe os dados do mundo externo.
+
+III. (  ) Os passos para a resolução de problemas são, respectivamente: criação da sequência de operações, execução da sequência, entendimento do problema e verificação da solução.
+
+IV. (  ) Na etapa de processamento de dados, por meio de um programa (software), o computador transforma dados que foram recebidos.
+
+V. (  ) Na etapa de saída de dados, o computador envia os dados processados para o mundo externo.
+
+Agora, assinale a alternativa que apresenta a sequência correta:
+
+​a) F, V, V, V, F
+
+​b) V, F, F, V, V
+
+c) V, F, V, F, V
+
+d) F, V, F, V, V
+
+​e) F, V, V, F, F
+
+Resposta: d

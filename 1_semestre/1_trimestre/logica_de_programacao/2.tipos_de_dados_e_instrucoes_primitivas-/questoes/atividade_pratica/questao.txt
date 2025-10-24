@@ -1,0 +1,27 @@
+Instruções
+
+Título da Prática: Alteração de Tipos de Dados
+
+Objetivos: Praticar lógica de programação e desenvolvimento de algoritmos.​
+Materiais, Métodos e Ferramentas: Para realizar este exercício, vamos utilizar o LabTech para desenvolver o algoritmo proposto na prática em questão.
+
+Atividade Prática
+
+Utilize o algoritmo abaixo “TipoDados” como exemplo e desenvolva um algoritmo em pseudocódigo onde os valores nome, idade, altura e criança sejam diferentes do algoritmo exemplo.
+Obs: Utilize a sintaxe para o Visualg, com o uso de vírgula (,) para variáveis de tipo Real
+Exemplo:
+
+Algoritmo “TipoDados”
+
+Var
+// Seção de declarações das variáveis
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc
+Escreval(“Tipo Caracter: Professor”)
+Escreval(“Tipo Inteiro: “, 10)
+Escreval(“Tipo Real: “, 10,.4)
+Escreval(“Tipo Booleano: “, falso)
+Fimalgoritmo
+
+Desenvolva e escreva seu código no Lab Tech (a resposta da Atividade Prática sempre será em código (pseudocódigo)).

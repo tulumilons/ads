@@ -1,0 +1,25 @@
+Com base no conhecimento acerca das Variáveis e Constante, bem como dos operadores, analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para a(s) falsa(s).
+
+I. (  ) O operador lógico ou é utilizado quando dois ou mais relacionamentos lógicos de uma determinada condição necessitam ser verdadeiros.
+
+II. (  ) O operador lógico não é utilizado quando pelo menos um dos relacionamentos lógicos de uma condição necessita ser verdadeiro.
+
+III. (  ) Uma variável é uma posição de memória usada para guardar um valor que pode ser o resultado de uma expressão aritmética.
+
+IV. (  ) Os operadores aritméticos unários são utilizados em operações matemáticas de radiciação, exponenciação, divisão, multiplicação, adição e subtração; enquanto os binários promovem a inversão do estado de um valor numérico. 
+
+V. (   ) Constantes são valores fixos, que em tempo de execução de um programa, não podem ser alterados.
+
+Agora, assinale a alternativa que apresenta a sequência correta:
+
+​a) F, V, V, F, F
+
+​b) V, F, F, F, V
+
+​c) V, V, F, V, V
+
+​d) F, F, F, V, F
+
+​e) F, F, V, F, V
+
+Resposta: e

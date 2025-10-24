@@ -1,0 +1,21 @@
+​(FCC - Adaptado) Leia o texto abaixo:
+
+Um Analista de TI precisou usar uma estrutura de dados simples que utilizasse pouca carga de memória de armazenamento. Tal estrutura é vista como um arranjo cuja capacidade pode variar dinamicamente, isto é, se o espaço reservado for totalmente ocupado e algum espaço adicional for necessário, este será alocado automaticamente não havendo a necessidade de se preocupar com a capacidade de armazenamento ou sua ocupação. Contudo, para que se possa utilizar essa coleção de dados de forma adequada, algumas informações necessárias devem ser mantidas internamente, tais como a quantidade total de elementos e a última posição ocupada na coleção, conforme exemplificado na figura abaixo.
+
+Figura 1 - Elementos e a última posição ocupada na coleção.​
+
+
+Com base no texto, na figura e nos seus conhecimentos acerca de Vetor, trata-se da estrutura do tipo:
+
+a) Homogênea multidimensional, portanto um vetor.
+
+b) Heterogênea multidimensional, portanto uma matriz.
+
+​c) Homogênea unidimensional, portanto uma variável.
+
+d) Homogênea unidimensional, portanto um vetor.
+
+​e) Heterogênea unidimensional, portanto uma constante.
+
+Resposta: d
+​Em computação um Vetor (Array) é o nome dado a uma estrutura unidimensional, considerada a mais simples das estruturas de dados, com tamanho fixo, que armazena do início até o fim variáveis do mesmo tipo, conforme podemos ver na figura do enunciado.

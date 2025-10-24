@@ -1,0 +1,108 @@
+Tipos de Dados e Instruções Primitivas
+	Introdução
+		Dado
+			-Matéria prima da informação
+			-De forma isolada não traz conhecimento
+			-Exemplo: 30
+
+		Informação
+			-Dados tratados e analisados traz um significado
+			-Exemplo: idade 30 anos
+
+		Instrução:
+			-Conjunto de palavras-chaves (vocabulário) de uma linguagem de programação para o processamento de dados
+			-Exemplo: no Visualg o comando "Escreva" corresponde a uma ação do algoritmo
+
+	Dados
+		-No contexto da computação, dados são tratados (processados) por um computador, para gerar informações ou resolver problemas	
+		-Os dados manipulados por um algoritmo podem possuir natureza distinta
+
+		Dados Numéricos:
+			Inteiros
+				Tipo de dados numéricos positivos e negativos (exceto números fracionários)
+				Exemplo: 33, 0, -128
+
+			Reais
+				Tipo de dados numéricos positivos, negativos e fracionários
+				Exemplo: 2, 33.7, 0, -128, -26.8, 5, 5.0
+
+		Dados Literais:
+			Definição
+				Sequência contendo letras, números e símbolos especiais
+			Regras
+				Uma sequência de caracteres deve sempre ser indicada entre aspas " "
+			Exemplo:
+				"Casa", "123", "num_apartamento", "Esta é uma frase formada por caracteres", " "
+			Conhecidos como
+				String e Caractere
+
+		Dados Lógicos
+			Definição
+				Dados com valores verdadeiro ou falso
+				Também chamado de Tipo Booleano
+			Exemplo:
+				Se <condição> Verdadeiro Senão Falso
+
+	1. Vamos Testar Nosso Conhecimento?
+		Classificação dos Dados Quanto ao Tipo:
+			- 24:
+			- 0:
+			- (-12):
+			- 24,01:
+			- 144:
+			- (-13.3):
+			- 0.0:
+			- 0:
+
+		Resposta da Classificação dos Dados Quanto ao Tipo:
+			- 24: número inteiro positivo
+			- 0: número inteiro
+			- (-12): número inteiro negativo
+			- 24.01: número real positivo com duas casas decimais
+			- 144.: número real positivo com zero casas decimais
+			- (-13.3): número real negativo 
+			- 0.0: número real com uma casa decimal
+			- 0: número real com zero casas decimais
+
+	2. Vamos Testar Nosso Conhecimento?
+		Classificação dos Dados Quanto ao Tipo:
+			- "QUAL ?":
+			- " ":
+			- "qUaL ?!$":
+			- "AbCdefGHi":
+			- "1-2+3=":
+			- "0":
+			- .V.:
+			- .F.:
+
+		Resposta da Classificação dos Dados Quanto ao Tipo:
+			- "QUAL ?": literal de comprimento 6
+			- " ": literal de comprimento 1
+			- "qUaL ?!$": literal de comprimento 8
+			- "AbCdefGHi": literal de comprimento de comprimento 0
+			- "1-2+3=": literal de comprimento 6
+			- "0": literal de comprimento 1
+			- .V.: valor lógico verdadeiro
+			- .F.: valo lógico falso
+
+	Atividades Prática:
+		Literal (Caracterer), Numérico (Inteiro e Real) e Booleano
+		Classifique os dados de acordo com seu tipo independentemente do algoritmo, caso seja um literal conte seu tamanho e caso seja real diga quantas casas decimais possui, para inteiros e reais verifique se é negativo ou 		positivo:
+			- "Eu gosto de programar":
+			- 123976.0:
+			- 1.3849:
+			- " ":
+			- "nome":
+			- 0:
+			- "@##$%":
+
+		Resposta:
+			- "Eu gosto de programar": literal de comprimento 21
+			- 123976.0: número real positivo com uma casa decimal
+			- 1.3849: número real positivo com 4 casas decimais
+			- " ": literal de comprimento 1
+			- "nome": literal de comprimento 4
+			- 0: número inteiro
+			- "@##$%": literal de comprimento 5
+
+			

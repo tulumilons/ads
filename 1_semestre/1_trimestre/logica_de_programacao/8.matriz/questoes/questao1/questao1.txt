@@ -1,0 +1,14 @@
+​Qual é o valor contido na posição da matriz m[2,1]?
+
+a) 200
+
+b) 30
+
+c) 180
+
+​d) 690
+
+e) 100
+
+Resposta: c
+​Para acessar um valor na matriz, é necessário indicar exatamente o índice correspondente entre colchetes após o nome da matriz m[2,1] então o valor contido na posição da linha 2 e coluna 1 é o 180.

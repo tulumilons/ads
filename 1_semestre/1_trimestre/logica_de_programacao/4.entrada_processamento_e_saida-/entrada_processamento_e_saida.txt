@@ -1,0 +1,45 @@
+Introdução
+	O Que é Sistema?
+		"Sistema é um conjunto de partes coordenadas, que concorrem para a realização de um conjunto de objetivos"
+		"Sistema é um conjunto de elementos interdependentes, ou um todo organizado, ou partes que interagem formando um todo unitário e complexo"
+		"Sistema é um conjunto de componentes e processos que visam transformar determinadas entradas e saídas"
+
+	Um sistema pode ser dividido em subsistemas
+		Cada subsistema tem sua funcionalidade, sendo requisitado quando necessário
+			Um sistema pode ser uma união de subsistemas, formando um sistema completo
+
+	Um programa tem como objetivo resolver um problema
+		Para isso, geralmente é necessário a entrada de dados
+			Esses dados são processados
+				Como resposta, solução do problema em questão, ocorre ou resulta em uma saída de dados
+
+	Passos para Resolução de Problemas:
+		1. Entendimento do problema
+		2. Criação de uma sequência de operações para solução do problema
+		3. Execução desta sequência
+		4. Verificação da adequação da solução
+
+	Entrada de Dados
+		Pode ocorrer através de:
+			Teclado
+			Câmera
+			Leitor Ótico
+			Mouse, etc
+
+	Processamento
+		Execução:
+			-Dos passos para resolver determinado problema
+			-De cada linha descrita no algoritmo
+			-De instruções
+
+	Saída de Dados
+		Pode ocorrer por diversos periféricos (monitor, impressora, caixa de som, projetor)
+
+	Itens de Entrada e Saída de Dados
+		Monitor Touchscreen
+		Disco rígido (armazena informação e trás informação)
+		Gravador de Blu-ray
+		Smartphone
+		
+
+	

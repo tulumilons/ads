@@ -1,0 +1,23 @@
+​Leia o trecho a seguir:
+
+“Muitas vezes é necessário repetir um trecho de programa determinado número de vezes. Neste caso, pode ser utilizada a técnica de laço de repetição (looping ou malhas), que tem por finalidade efetuar o processamento de um trecho de instruções tantas vezes quantas forem necessárias.”
+
+Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 89.
+
+A partir do texto acima e dos conhecimentos sobre Repetição, analise o pseudocódigo a seguir:
+
+
+​Assinale a alternativa que contém o número de vezes que será exibida a frase: Oi, tudo bem?
+
+a) 4
+
+b) 3
+
+c) 2
+
+d) 1
+
+e) 5
+
+Resposta: a
+​Será exibida a frase 4 vezes, são elas: quando a variável de controle for 0, quando a variável de controle for 1, quando a variável de controle for 2 e quando  a variável de controle for 3.

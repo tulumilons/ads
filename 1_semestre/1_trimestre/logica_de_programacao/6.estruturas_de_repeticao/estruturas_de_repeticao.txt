@@ -1,0 +1,61 @@
+Estruturas de Repetição (ou Laços)
+
+ 	Um algoritmo pode necessário repetir parte(s) do código
+
+ 	Mecanismos de repetição são recursos importantes e muito utilizados em algoritmos
+
+ 	Cada execução de uma parte do código em um laço trata-se de uma interação
+
+ 	Assim uma dada parte do código pode ser executada quantas vezes forem necessárias
+
+
+
+Estrutura PARA
+
+ 	Estrutura PARA consiste em empregar uma variável, geralmente um contador, para controlar as repetições a serem executadas
+
+ 	Forma Geral da Estrutura PARA
+
+		para <variável> de <valor-inicial> ate <valor-limite> \[passo <incremento>] faca
+
+			<sequencia-de-comandos>
+
+
+
+
+
+ 		fimpara
+
+
+
+Estrutura de Repetição - ENQUANTO
+
+ 	A estrutura de repetição ENQUANTO permite repetir um trecho de código enquanto uma determinada condição for verdadeira
+
+ 	Não se conhece a priori o número (não se sabe quantas vezes será repetido) de repetições que serão executadas no corpo do laço
+
+
+
+ 	Comando ENQUANTO
+
+ 		ENQUANTO <expressão booleana> FACA
+
+&nbsp;	<sequência-de-comandos>
+
+
+
+
+
+ 		FIMENQUANTO
+
+
+
+Estrutura de Repetição - REPITA...ATÉ
+
+ 	Permite repetir um trecho de código enquanto uma determinada condição for verdadeira
+
+ 	Diferença:
+
+ 		O bloco de comandos associado a estrutura de repetição e é executado obrigatoriamente pelo menos uma vez
+
+ 		Isso acontece porque a avaliação da condição é feita no final da estrutura de repetição REPITA...ATÉ

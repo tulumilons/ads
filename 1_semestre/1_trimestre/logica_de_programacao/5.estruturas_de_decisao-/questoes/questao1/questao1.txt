@@ -1,0 +1,30 @@
+​(FAURGS - Adaptado) Leia o trecho a seguir:
+
+“O que é um texto? Usamos tanto no nosso dia a dia que não paramos para pensar no que consiste um texto escrito na tela de um computador. Um texto é uma sequência de caracteres. Esta é uma definição óbvia, porém importante. Esses caracteres podem ser as letras comuns do alfabeto, mas também podem ser símbolos, sinais de pontuação, números e até caracteres que não são visíveis diretamente, mas cujo efeito podemos perceber.”
+
+Fonte: RIBEIRO, J. A. Introdução à programação e aos algoritmos. 1. ed. Rio de Janeiro: LTC, 2019, p. 68.
+
+Com base no texto acima e nos conteúdos abordados sobre Tomada de Decisão, considere a tabela a seguir, que contém dados do IMC (Índice de Massa Corporal) de uma pessoa, com uma escala típica de valores, dentre as várias existentes.
+
+​
+
+
+​A fórmula para o cálculo do IMC é
+
+IMC = PESO/ ALTURA²
+
+Considerando a expressão acima, o comando de tomada de decisão, em pseudocódigo, que expressa corretamente a lógica para calcular e imprimir o IMC dentro da escala correta dos dois casos extremos é:
+
+​a) se IMC <16 OR IMC >40 então IMPRIMIR IMC
+
+b) se IMC <17 OR IMC >41 então IMPRIMIR IMC
+
+c) se IMC <15 AND IMC >39 então IMPRIMIR IMC
+
+d) se IMC >16 AND IMC <40 então IMPRIMIR IMC
+
+e) se IMC >17 AND IMC <41 então IMPRIMIR IMC
+
+Resposta: a
+​Conforme a tabela exibida na questão, o comando de tomada de decisão correto para o cálculo do IMC, em pseudocódigo, dos dois casos é: “se IMC <16 OR IMC >40 então IMPRIMIR IMC”. Abaixo de 16 tem-se uma situação de subpeso severo e acima de 40 obesidade mórbida.
+​

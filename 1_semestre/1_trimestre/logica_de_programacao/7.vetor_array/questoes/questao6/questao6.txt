@@ -1,0 +1,28 @@
+(IBFC - Adaptada) Leia o trecho a seguir:
+
+Como resposta a uma questão da prova, a definição de estrutura de dados elementar denominada vetor foi apresentada por 5 alunos de formas diferentes, como mostrado a seguir:
+
+Tatiana definiu que: o vetor é a representação gráfica de uma reta orientada possuindo mesma intensidade, direção e sentido.
+
+Rivaldo escreveu que: o vetor é o conjunto de todos os segmentos orientados equipolentes a um segmento dado.
+
+Daniele definiu que: o vetor permite o acesso a uma grande quantidade de dados em memória usando-se apenas um nome de variável.
+
+Fernando escreveu que: os vetores são utilizados em computação gráfica representando os minúsculos pontos diferenciados pela sua cor.
+
+Ana definiu que: o vetor é uma representação mais simples de uma estrutura de repetição, de modo que toda matriz é um vetor, mas nem todo vetor é uma matriz.
+
+A professora Débora corrigiu todas as respostas dadas pelos alunos e chegou a conclusão de que apenas uma delas estava correta, a resposta de:​
+
+a) Ana
+
+b) Daniele
+
+c) Tatiana
+
+d) Rivaldo
+
+e) Fernando
+
+Resposta: b
+​O vetor é uma forma eficiente de agrupar dados, visto que temos um acesso em tempo constante a qualquer elemento, consistindo numa variável que armazena várias variáveis do mesmo tipo.

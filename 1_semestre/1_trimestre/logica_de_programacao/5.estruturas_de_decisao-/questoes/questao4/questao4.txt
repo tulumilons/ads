@@ -1,0 +1,23 @@
+​Leia o trecho a seguir:
+
+“A forma mais básica de tomada de decisão é o esquema que faz a seleção entre duas alternativas[...] Passando o fluxograma para pseudocódigo, temos: ‘Se uma condição for verdadeira faça algo senão faça outra coisa’.”
+
+Fonte: RIBEIRO, J. A. Introdução à programação e aos algoritmos. 1. ed. Rio de Janeiro: LTC, 2019, p. 82.
+
+Com base no texto acima e nos conteúdos abordados sobre Tomada de Decisão, analise o diagrama a seguir, elaborado a partir de um algoritmo que calcula a área de uma circunferência.
+
+
+​Assinale a alternativa que analisa corretamente o fluxograma:
+
+​a) O algoritmo que originou o fluxograma contém um erro, pois exibe valores de área para raios negativos.
+
+b) O algoritmo que originou o fluxograma contém um erro, pois não exibe o valor da área.
+
+c) O algoritmo que originou o fluxograma contém um erro, pois a expressão utilizada para calcular a área está incorreta.
+
+d) O algoritmo que originou o fluxograma está correto, pois a cláusula senão é opcional.
+
+e) O algoritmo que originou o fluxograma está correto, a representação da tomada de decisão é de fato um losango.
+
+Resposta: a
+​Para o problema apresentado, o fluxograma efetua a verificação, porém exibe o valor da área para valores menores que zero ou igual a zero. Portanto, o algoritmo que o originou contém um erro.

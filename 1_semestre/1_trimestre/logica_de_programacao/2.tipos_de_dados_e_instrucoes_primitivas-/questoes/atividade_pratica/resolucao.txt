@@ -1,0 +1,19 @@
+Algoritmo "TipoDadosAlterado"
+
+Var
+    nome: caractere
+    idade: inteiro
+    altura: real
+    crianca: logico
+
+Inicio
+    nome := "Gabriel"
+    idade := 27
+    altura := 1,75
+    crianca := falso
+
+    Escreval("Tipo Caracter: ", nome)
+    Escreval("Tipo Inteiro: ", idade)
+    Escreval("Tipo Real: ", altura)
+    Escreval("Tipo Booleano: ", crianca)
+Fimalgoritmo

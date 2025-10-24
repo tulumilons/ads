@@ -1,0 +1,13 @@
+Definições:
+	Lógica de Programação:
+		Conjunto de raciocínios utilizados para criar um algoritmo
+
+	Algoritmo
+		Sequência de instruções que resolve determinado problema
+
+
+	Programa
+		Algoritmo escrito em uma linguagem de programação específica, isto é, um algoritmo que pode ser executado em um computador
+
+	Lógica
+		Ciência dos princípios formais do raciocínio

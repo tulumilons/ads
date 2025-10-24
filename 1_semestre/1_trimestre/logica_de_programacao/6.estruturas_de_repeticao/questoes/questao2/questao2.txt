@@ -1,0 +1,32 @@
+​Leia o trecho a seguir:
+
+“Os laços de repetição podem ser classificados em duas formas, sendo laços de repetição interativa ou laços de repetição iterativa. São interativos quando necessitam da intervenção de um usuário para repetir a próxima ação do programa um indeterminado número de vezes, são laços iterativos quando executam as repetições previstas de forma automática determinado número de vezes.”
+
+Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 89.
+
+Com base no texto acima e nos seus conhecimentos sobre Repetição, analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para a(s) falsa(s).
+
+I. (  ) Um desenvolvedor estava utilizando a instrução enquanto em seu programa, porém ele não incrementou a variável de controle durante a execução. Nesse caso, o programa apresentará uma mensagem de erro ao executar a ação.
+
+II. (  ) A instrução que realiza o teste lógico no início da repetição é enquanto...faca...fimenquanto.
+
+III. (  ) Ao utilizar as estruturas enquanto e repita o desenvolvedor deve criar uma variável de controle que será incrementada automaticamente, sem que precise ser incrementada.
+
+IV. (  ) A instrução que realiza o teste lógico no fim da repetição é  repita...ate.
+
+V. (  ) A estrutura que implementa automaticamente a variável de controle e efetua o teste lógico é para...de...ate...passo...faca...fimpara.
+
+Agora, assinale a alternativa que apresenta a sequência correta:
+
+​a) F, V, V, V, F
+
+b) V, F, F, V, V
+
+c) F, F, V, F, V
+
+d) F, V, F, V, V
+
+e) F, V, V, F, F
+
+Resposta: d
+​A afirmativa I é falsa, uma vez que, como consequência da ausência da variável de controle, o algoritmo entrará em um loop infinito, pois a condição adotada para saída do loop não está sendo modificada. A afirmativa II é verdadeira porque o laço enquanto efetua o teste lógico antes de realizar as instruções. A afirmativa III é verdadeira, pois o laço repita efetua o teste lógico depois de realizar o conjunto de instruções dentro do loop uma vez. A afirmativa IV é falsa, pois deve ser criada uma variável de controle que será incrementada a cada execução, promovendo a verificação de condição no início e no final da repetição. A afirmativa V é verdadeira, visto que a estrutura para...de...ate...passo...faca...fimpara determina a variável de controle e faz automaticamente o incremento para a verificação do teste lógico.

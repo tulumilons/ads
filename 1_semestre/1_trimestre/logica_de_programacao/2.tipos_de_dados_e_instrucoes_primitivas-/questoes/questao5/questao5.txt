@@ -1,0 +1,31 @@
+​Leia o trecho a seguir:
+
+“Esse tipo de dado é representado por letras (de A até Z), números (de 0 até 9), símbolos (por exemplo, todos os símbolos imprimíveis existentes num teclado) ou palavras contendo esses símbolos.”
+
+Fonte: MORAIS, I. S. de. et al. Algoritmo e Programação. 1. ed. São Paulo: SAGAH EDUCAÇÃO, 2018, p. 39.
+
+Com base no conhecimento acerca dos Tipos de Dados e Instruções Primitivas, analise as afirmativas a seguir e assinale V para a(s) verdadeira(s) e F para a(s) falsa(s).
+
+I. (  ) São exemplos de dados literais: “NOME” e “Abacaxi”.
+
+II. (  ) São exemplos de dados literais: “304958” e “23/12/99”.
+
+III. (  ) Não constituem exemplos de dados literais: “falso” e “verdadeiro”
+
+IV. (  ) Não constituem exemplos de dados literais: "Rua Alfa, 52 - Apto. 1" e "45.989".
+
+V. (  ) São exemplos de dados literais: "CEP: 11222-333", "-90".
+
+Agora, assinale a alternativa que apresenta a sequência correta:
+
+​a) F, V, V, V, F
+
+​b) V, V, F, F, V
+
+​c) V, F, V, F, V
+
+​d) F, V, F, V, F
+
+​e) F, V, V, F, F
+
+Resposta: b

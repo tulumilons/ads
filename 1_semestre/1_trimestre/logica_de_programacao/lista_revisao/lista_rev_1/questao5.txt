@@ -1,0 +1,30 @@
+O usuário digitou -2 na entrada do sistema. Qual será a resposta do algoritmo abaixo:
+
+
+algoritmo "Armazenamento"
+var
+n,a,b :real
+inicio
+escreval("Digite um número: ")
+leia(n)
+se(n >= 0) entao
+a<- n
+escreval("O número está na variável A")
+senao
+b <- n
+escreval("O número está na variável B")
+fimse
+fimalgoritmo
+
+a) O número está na variável A
+
+b) O número está na variável B
+
+c) O número está na variável A e B
+
+d) O número não foi armazenado
+
+e) O número está na variável N
+
+Resposta: b
+O número digitado pelo usuário -2 é um número negativo (n<0), então a resposta do algoritmo é “O número está na variável B”

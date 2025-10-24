@@ -1,0 +1,16 @@
+“Fluxogramas funcionam bem para demonstrar uma versão mais abstrata e menos detalhada de um algoritmo. Servem como ilustração gráfica da solução [...] Hoje em dia preferimos usar algo mais próximo do código das linguagens de programação. Esta linguagem é tanto mais próxima do código final quanto quisermos. Como não tem a obrigação de ser compreensível pelo computador, chamamos isso de pseudocódigo.”
+Fonte: RIBEIRO, J. A. Introdução à programação e aos algoritmos. 1. ed. Rio de Janeiro: LTC, 2019, p. 47.
+Com base nessas informações e no conteúdo estudado acerca dos Fluxogramas, analise os símbolos abaixo e associe-os com o tipo de operação que descrevem.
+
+(  ) Saída de dados em impressora.
+(   ) Decisão.
+(   ) Atribuição e chamada ou retorno de subalgoritmo.
+(   ) Entrada de dados
+Agora, assinale a alternativa que apresenta a sequência correta:
+1. ​4, 3,  2, 1
+2. 1, 2, 3, 4
+​3. 3, 1, 2, 4
+4. 2, 4, 1, 3
+​5. 4, 2, 3, 1
+
+Resposta: 5

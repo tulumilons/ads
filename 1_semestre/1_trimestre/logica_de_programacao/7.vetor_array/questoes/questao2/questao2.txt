@@ -1,0 +1,32 @@
+​(Quadrix/ AOCP - Adaptada) Leia o trecho a seguir:
+
+“A matriz de uma dimensão (vetor) é a forma mais simples de tabela de valores com apenas uma coluna e várias linhas de dados, definida em uma única variável com tamanho específico.”
+
+Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 107.
+
+A partir do texto acima e dos conhecimentos sobre Vetor/Array, considere a afirmativas a seguir: 
+
+I. O tamanho dos vetores são declarados, geralmente, por meio de colchetes, os quais são usados também para limitar o número de elementos que podem ser armazenados. 
+
+II. A atribuição de valores a um vetor já criado é procedida de elemento em elemento, alterando‐se o valor do índice do vetor. 
+
+III. Para manipular um elemento em um vetor, de uma estrutura simples (unidimensional) de dados de mesmo tipo, não há a necessidade de se fornecer a posição do elemento desejado.
+
+IV. Um vetor é declarado definindo‐se o seu nome, seu tamanho e seu tipo.
+
+V. Um conjunto homogêneo de dados se dá quando uma determinada estrutura de dados é composta de variáveis com o mesmo tipo. 
+
+Está correto o que se afirma em:
+
+a) I, II, IV e V.
+
+b) II, III e IV.
+
+c) I, II, III e V.
+
+d) I, III e IV
+
+e) I e IV.
+
+Resposta: a
+​A assertiva I está correta porque a declaração de um vetor é feita atribuindo o seu nome e tamanho (dimensão) entre colchetes. A assertiva II está correta, pois o nome do vetor é um só, o que muda é a informação indicada entre colchetes (índice). A assertiva III está incorreta porque um vetor é funciona como um ponteiro para um endereço de memória, onde se inicia uma lista e, para manipular um elemento do vetor, é necessário saber a posição dele, ou seja, em que ponto a partir do endereço indicado está o elemento desejado. A assertiva IV está correta, pois a declaração de um vetor é muito semelhante à declaração de uma variável. A diferença é que depois do nome da variável deve ser informada a quantidade de elementos do vetor. A assertiva V está correta porque o vetor ou array é uma estrutura homogênea unidimensional , que se comporta como uma variável que armazena várias variáveis do mesmo tipo. A sua declaração é feita a partir do seguinte comando: vetor [VALOR INICIAL...VALOR FINAL] de TIPO.

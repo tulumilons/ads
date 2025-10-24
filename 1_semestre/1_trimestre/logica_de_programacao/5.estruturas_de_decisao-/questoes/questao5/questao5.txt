@@ -1,0 +1,52 @@
+​Leia o trecho a seguir:
+
+Um grupo de desenvolvedores está discutindo sobre a estrutura de controle tomada de decisão. A estrutura em questão apresenta as seguintes características: para verificar uma condição o usuário deve inserir um valor na tela, se o valor estiver correto, será apresentada a mensagem “Bem vindo”.
+
+Com base no texto e nos seus conhecimentos sobre Tomada de Decisão, considere a afirmativas a seguir: 
+
+I. A tomada de decisão em questão apresenta uma estrutura composta, com os comandos SE, SENAO e FIMSE.
+
+II. A tela exibirá a mensagem Bem-vindo se a condição for Verdadeira, de modo que serão executadas todas as instruções que estejam entre o comando SE ENTAO e o comando FIMSE
+
+III. O seguinte problema tem a mesma estrutura da tomada de decisão discutida pelos desenvolvedores: ler dois valores numéricos, efetuar a adição e apresentar o seu resultado caso o valor somado seja maior que 10. 
+
+IV.  Se a condição for Falsa não aparecerá a mensagem Bem-vindo, pelo fato de se estar utilizando uma estrutura de controle simples.
+
+Está correto o que se afirma em:
+
+​a) I, II e IV
+
+b) II e III
+
+c) III e IV
+
+d) II, III e IV
+
+e) apenas I.
+
+Resposta: d
+​A assertiva I está incorreta porque a tomada de decisão em questão apresenta uma estrutura simples, com os comandos SE ENTÃO e FIMSE. A assertiva II está correta, pois o programa apresentou a mensagem de boas vindas quando o usuário inseriu o código verdadeiro. A assertiva III está correta, porque podemos escrever o pseudocódigo do problema descrito com uma estrutura simples, da mesma forma que o problema do enunciado. Veja a seguir:
+
+programa SOMA_NÚMEROS var
+
+   X, A, B : inteiro 
+
+início
+
+     leia A 
+
+     leia B 
+
+      X␣A+B 
+
+     se (X > 10) então
+
+        escreva X
+
+      fim_se
+
+fim
+
+Por fim, a assertiva IV está correta, visto que, caso o usuário insira um código falso, o programa não precisa realizar nenhuma ação, pelo fato de se estar utilizando uma estrutura de controle tomada de decisão simples.
+
+​

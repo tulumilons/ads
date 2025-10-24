@@ -1,0 +1,36 @@
+O gerente de uma loja de produtos de construção civil deseja fazer vários orçamentos a fim de averiguar o custo de uma compra de materiais para abastecer o estoque. Os três produtos P1, P2 e P3 são necessários nas quantidades Q1, Q2 e Q3, respectivamente. Ao pesquisar em cinco fornecedores, o gerente encontrou a tabela de preços apresentada na figura a seguir. 
+
+
+​Figura 1 - Orçamentos dos fornecedores 1 a 5 para os produtos P1, P2 e P3.​​
+
+Com base no texto acima e nos seus conhecimentos sobre Matrizes, considere as afirmativas a seguir:
+
+I. A matriz dos orçamentos tem dimensão 5 x 3. f
+
+II. O valor disposto na posição [3, 2] é referente ao preço do fornecedor 2 para P3. 
+
+III. O valor disposto na posição [2, 4] é referente ao preço do fornecedor 2 para P2. 
+
+IV. O valor disposto na posição [1, 5] é referente ao preço do fornecedor 1 para P1. 
+
+V. Os valores dispostos nas posições [2, 1], [2, 3] e [2, 4] são idênticos. 
+
+VI. Os valores dispostos nas posições [3, 1] e [1, 4] são diferentes. 
+
+Está correto o que se afirma em:
+
+a) I, II e V
+
+b) II, III e IV
+
+c) I, III e V
+
+d) II e V
+
+e) IV e V
+
+Resposta: d
+​A assertiva I está incorreta, pois a dimensão da matriz de orçamentos para os produtos P1, P2 e P3 é 3 x 5. A assertiva II está correta porque  o valor disposto na posição [2, 4] é, de fato, referente ao preço do fornecedor 2 para P2. A assertiva III está incorreta, pois o valor disposto na posição [2, 4] na verdade é referente ao preço do fornecedor 4 para P2. 
+
+A assertiva IV está incorreta porque o valor disposto na posição [1, 5] na verdade é referente ao preço do fornecedor 5 para P1. A assertiva V está correta, pois, de fato, os valores dispostos nas posições [2, 1], [2, 3] e [2, 4] são idênticos e iguais a 35. Por fim, a assertiva VI está incorreta porque os valores dispostos nas posições [3, 1] e [1, 4] são idênticos e iguais a 40.
+​

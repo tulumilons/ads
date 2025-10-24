@@ -1,0 +1,25 @@
+Analise o pseudocódigo em portugol a seguir:
+
+
+Algoritmo “Atividade”
+Var
+Inicio
+          Escreval(“Idade: 25 anos”)
+          Escreval(“Metade da Idade: “, 12.5)
+Fimalgoritmo
+
+
+Ao analisar o código, selecione a alternativa correta que indica quais os tipos de dados serão exibidos:
+
+a) Inteiro e Booleano;
+
+b) Real e Booleano;
+
+c) Alfanumérico (literal) e Inteiro;
+
+d) Alfanumérico (literal) e Real;
+
+e) Real e Inteiro;
+
+Resposta: d
+Justificativa: Para a exibição correta, o tipo de dados alfanumérico (literal) deve estar entre aspas duplas e o número real deve estar com o ponto entre a casa decimal, sem aspas.

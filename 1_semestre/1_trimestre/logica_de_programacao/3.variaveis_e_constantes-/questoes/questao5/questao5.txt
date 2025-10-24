@@ -1,0 +1,31 @@
+​Leia o trecho a seguir:
+
+“Uma operação muito comum em programação de computadores é a expressão aritmética para estabelecer processamentos matemáticos. Define-se expressão aritmética como o relacionamento existente entre variáveis e constantes numéricas com a utilização dos operadores aritméticos.”
+
+Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 44.
+
+Com base no texto acima e nos conteúdos abordados sobre Operadores, considere a afirmativas a seguir:
+
+I. O operador relacional utilizado para verificar se a variável A é maior do que a variável B é A > B. 
+
+II. A representação da expressão aritmética X =43*55 : (30 + 2) é: X <- 43*55/(30+2). v
+
+III. O operador relacional utilizado para verificar se a variável D é menor ou igual a variável C é D <= C. 
+
+IV. O operador relacional utilizado para verificar se a variável F é diferente da variável G é F<>G. 
+
+V. A representação da expressão aritmética Y = 7*34 + 5*8 - 3 é: Y <- (7*3/4)+(5*(8-3)).
+
+Está correto o que se afirma em:
+
+​a) I, II, III e IV
+
+​b) II, III e V
+
+c) II, III, IV e V
+
+d) III e V
+
+e) III, IV e V
+
+Resposta: a

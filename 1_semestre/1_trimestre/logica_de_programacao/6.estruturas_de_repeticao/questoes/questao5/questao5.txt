@@ -1,0 +1,36 @@
+​Considere o seguinte trecho de código em linguagem de programação utilizando estrutura de repetição:
+
+programa Principal;
+
+variável i, produto: inteiro;
+
+início
+
+    produto := 1;
+
+    para i de 1 até 4 faça
+
+        produto := produto * i;
+
+    fimpara;
+
+    escreva("Produto dos números de 1 a 4: ", produto);
+
+fim.
+
+A partir da análise, indique a seguir, qual será a saída completa do programa quando ele for executado?
+
+a) Produto dos números de 1 a 4: 20
+
+b) Produto dos números de 1 a 4: 24
+
+c) Produto dos números de 1 a 4: 12
+
+d) Produto dos números de 1 a 4: 16
+
+e) Produto dos números de 1 a 4: 10
+
+Resposta: b
+​O programa utiliza uma estrutura de repetição "para" para calcular o produto dos números de 1 a 4. A variável produto é inicialmente definida como 1 e, dentro do loop, é multiplicada pelo valor de i em cada iteração.
+
+Portanto, após a conclusão do loop, a variável produto terá o valor 24, que é exibido pelo comando escreva("Produto dos números de 1 a 4: ", produto)
