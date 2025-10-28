@@ -1,5 +1,3 @@
-​(EsFCEx) Leia o trecho a seguir:
-
 Uma estrutura de repetição é uma estrutura de desvio do fluxo de controle presente em linguagens de programação que realiza e repete diferentes ações, dependendo se uma condição for verdadeira ou falsa, em que a expressão é processada e transformada em um valor booleano.
 
 Com base no texto acima e nos seus conhecimentos sobre Repetição, analise as afirmativas a seguir:

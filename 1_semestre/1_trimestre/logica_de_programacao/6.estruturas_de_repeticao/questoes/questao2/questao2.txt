@@ -1,5 +1,3 @@
-​Leia o trecho a seguir:
-
 “Os laços de repetição podem ser classificados em duas formas, sendo laços de repetição interativa ou laços de repetição iterativa. São interativos quando necessitam da intervenção de um usuário para repetir a próxima ação do programa um indeterminado número de vezes, são laços iterativos quando executam as repetições previstas de forma automática determinado número de vezes.”
 
 Fonte: MANZANO, J. A. N. G.; OLIVEIRA, J. F. Estudo Dirigido de Algoritmos. 15. ed. São Paulo: Érica, 2012, p. 89.
