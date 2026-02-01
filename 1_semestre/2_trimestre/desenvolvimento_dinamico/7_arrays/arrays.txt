@@ -1,0 +1,331 @@
+Arrays
+Arrays são estruturas fundamentais em JavaScript, usadas para armazenar e manipular coleções de dados de maneira eficiente. Cada elemento de um array é identificado por um índice numérico, permitindo fácil acesso, modificação e organização de dados. Em JavaScript, os arrays são extremamente versáteis, podendo conter diferentes tipos de dados, como números, strings, objetos e até outros arrays. Nesta aula, vamos explorar como criar, acessar e manipular arrays, além de aprender métodos básicos e avançados para lidar com grandes volumes de informações de forma dinâmica.
+
+Criação e manipulação de arrays
+
+Os arrays são uma das estruturas de dados mais fundamentais e amplamente utilizadas em JavaScript. Um array é uma coleção ordenada de elementos, onde cada elemento é associado a um índice numérico. Diferente de muitas linguagens de programação, em JavaScript, um array pode conter diferentes tipos de dados, como números, strings, objetos, ou até mesmo outros arrays. Isso torna os arrays extremamente versáteis e úteis para armazenar e manipular grandes conjuntos de informações de maneira organizada.
+
+Para criar um array, você pode usar colchetes [], que é a forma mais simples e comum, ou o construtor new Array(). Vamos ver um exemplo de como criar um array em JavaScript:
+
+   javascript
+
+let numeros = [1, 2, 3, 4, 5];
+
+let misto = [42, “texto”, true, [1, 2, 3]];
+
+
+
+No primeiro exemplo, o array numeros armazena uma lista de números inteiros. No segundo exemplo, o array misto armazena uma variedade de tipos de dados, incluindo números, strings, booleanos e até outro array. Essa flexibilidade é uma característica poderosa do JavaScript, que permite ao desenvolvedor lidar com diferentes tipos de dados em uma única estrutura.
+
+Cada elemento em um array é acessado através de seu índice, que começa a partir de 0. Isso significa que o primeiro elemento está na posição 0, o segundo na posição 1, e assim por diante. Para acessar ou modificar um elemento, você pode utilizar a notação de colchetes. Por exemplo:
+
+   javascript
+
+console.log(numeros[0]); // Saída: 1
+
+numeros[2] = 10; // Modifica o terceiro elemento
+
+console.log(numeros); // Saída: [1, 2, 10, 4, 5]
+
+
+
+Além de acessar e modificar valores, a manipulação de arrays inclui operações como adicionar, remover e alterar elementos em tempo real. É possível, por exemplo, criar arrays vazios e adicionar elementos posteriormente, ou criar arrays já preenchidos com valores iniciais. Arrays podem ser usados para modelar e representar conjuntos de dados complexos, como uma lista de usuários em um sistema ou os itens de um carrinho de compras.
+
+Em resumo, um array é uma estrutura que facilita o armazenamento e a manipulação de coleções de dados, permitindo operações como adição, remoção e acesso a elementos de forma muito eficiente. A capacidade de armazenar diferentes tipos de dados e manipular facilmente essas coleções torna os arrays essenciais no desenvolvimento JavaScript.
+
+Uso de Arrays na prática
+
+Na prática, os arrays são fundamentais para o desenvolvimento de soluções em JavaScript. Eles permitem que grandes quantidades de dados sejam organizadas de maneira eficiente, e seu uso é comum em diversas aplicações, desde simples listas de valores até estruturas mais complexas, como armazenamento de informações de usuários ou produtos em um sistema.
+
+Um dos principais benefícios do uso de arrays é a capacidade de armazenar dados de forma sequencial, o que facilita operações como a iteração e a busca por elementos específicos. No contexto de desenvolvimento web, arrays são frequentemente utilizados para armazenar coleções de dados dinâmicos, como entradas de formulários, listas de produtos ou respostas de APIs.
+
+Um exemplo prático de uso de arrays é no desenvolvimento de um sistema de gerenciamento de estoque. Um array pode ser usado para armazenar os itens disponíveis em uma loja e manipular esses dados conforme o usuário adiciona ou remove produtos. Veja um exemplo de um array que armazena itens de estoque:
+
+   javascript
+
+let estoque = [“Camisa”, “Calça”, “Sapato”];
+
+console.log(estoque); // [“Camisa”, “Calça”, “Sapato”]
+
+
+
+Agora, vamos supor que um novo item precisa ser adicionado ao estoque. Para isso, usamos o método push():
+
+   javascript
+
+estoque.push(“Cinto”);
+
+console.log(estoque); // [“Camisa”, “Calça”, “Sapato”, “Cinto”]
+
+
+
+Se for necessário remover o último item, utilizamos o método pop():
+
+   javascript
+
+estoque.pop();
+
+console.log(estoque); // [“Camisa”, “Calça”, “Sapato”]
+
+
+
+Em sistemas mais complexos, os arrays são usados em conjunto com outras estruturas e métodos para realizar operações como filtragem e mapeamento. Por exemplo, você pode usar o método filter() para filtrar elementos de um array com base em uma condição específica. Suponha que você tenha um array de números e queira filtrar apenas os números maiores que 10:
+
+   javascript
+
+let numeros = [5, 10, 15, 20];
+
+let maioresQueDez = numeros.filter(function(numero) {
+
+  return numero > 10;
+
+});
+
+console.log(maioresQueDez); // [15, 20]
+
+
+
+Essas operações são muito úteis quando se trabalha com grandes volumes de dados, permitindo a manipulação eficiente e a extração de informações relevantes sem a necessidade de iterar manualmente por cada elemento.
+
+Em suma, o uso de arrays na prática vai muito além do armazenamento de valores simples. Eles são uma peça-chave para a manipulação de dados em JavaScript, possibilitando que desenvolvedores trabalhem de maneira eficiente com coleções de informações dinâmicas, armazenem dados de APIs, gerenciem listas e muito mais.
+
+Métodos básicos de Arrays
+
+Para manipular arrays em JavaScript, a linguagem oferece uma série de métodos que facilitam a adição, remoção e modificação de elementos. Os métodos mais comuns e amplamente usados são push(), pop(), shift(), e unshift(). Cada um desses métodos tem uma função específica e é amplamente utilizado para resolver diferentes problemas ao manipular arrays.
+
+O método push() adiciona novos elementos ao final do array, aumentando seu tamanho. Vamos ver um exemplo prático:
+
+   javascript
+
+let numeros = [1, 2, 3];
+
+numeros.push(4);
+
+console.log(numeros); // [1, 2, 3, 4]
+
+
+
+Aqui, o método push() adiciona o número 4 ao final do array numeros, que agora contém quatro elementos. O push() é particularmente útil quando você precisa expandir um array com novos valores sem substituir os existentes.
+
+Por outro lado, o método pop() remove o último elemento de um array. Isso é útil quando você deseja “desempilhar” o último valor inserido:
+
+   javascript
+
+let numeros = [1, 2, 3];
+
+numeros.pop();
+
+console.log(numeros); // [1, 2]
+
+
+
+Além do push() e pop(), o método shift() remove o primeiro elemento do array, deslocando todos os outros elementos para a esquerda:
+
+   javascript
+
+let frutas = [“maçã”, “banana”, “laranja”];
+
+frutas.shift();
+
+console.log(frutas); // [“banana”, “laranja”]
+
+
+
+O método oposto de shift() é o unshift(), que adiciona novos elementos ao início do array:
+
+   javascript
+
+frutas.unshift(“uva”);
+
+console.log(frutas); // [“uva”, “banana”, “laranja”]
+
+
+
+Esses métodos são fundamentais no dia a dia do desenvolvimento JavaScript, pois permitem que os arrays sejam manipulados de maneira eficiente, seja adicionando novos elementos, removendo existentes, ou reorganizando os dados. Entender como e quando utilizar esses métodos é essencial para manipular dados de forma otimizada em qualquer aplicação.
+
+Métodos avançados de Arrays
+
+Além dos métodos básicos, JavaScript oferece uma série de métodos avançados que permitem manipulações mais sofisticadas e dinâmicas dos dados armazenados em arrays. Entre os métodos mais poderosos estão concat(), splice(), e slice(). Estes métodos proporcionam maior flexibilidade ao trabalhar com arrays, possibilitando desde a junção de múltiplos arrays até a remoção ou substituição de elementos em posições específicas.
+
+O método concat() é utilizado para unir dois ou mais arrays em um único array. Por exemplo:
+
+   javascript
+
+let numeros1 = [1, 2];
+
+let numeros2 = [3, 4];
+
+let numerosCombinados = numeros1.concat(numeros2);
+
+console.log(numerosCombinados); // [1, 2, 3, 4]
+
+
+
+Esse método é útil quando você deseja combinar coleções de dados sem modificar os arrays originais. Ele cria um novo array contendo todos os elementos dos arrays combinados.
+
+Outro método avançado é o splice(), que pode ser usado para remover, adicionar ou substituir elementos em qualquer posição do array. O splice() é extremamente poderoso porque permite alterar o conteúdo de um array de forma muito controlada:
+
+  javascript
+
+let frutas = [“maçã”, “banana”, “laranja”];
+
+frutas.splice(1, 1, “uva”); // Remove “banana” e insere “uva”
+
+console.log(frutas); // [“maçã”, “uva”, “laranja”]
+
+
+
+Neste exemplo, o splice() remove um elemento (a “banana”) e insere um novo elemento (“uva”) em seu lugar. O primeiro número passado ao splice() é o índice inicial, o segundo número indica quantos elementos serão removidos, e os valores seguintes são os novos elementos a serem adicionados.
+
+Já o método slice() cria uma cópia de uma parte de um array, sem modificar o original. Por exemplo, se você quiser criar um subarray contendo apenas uma parte de outro array, o slice() pode ser usado:
+
+   javascript
+
+let frutas = [“maçã”, “banana”, “laranja”, “uva”];
+
+let subFrutas = frutas.slice(1, 3);
+
+console.log(subFrutas); // [“banana”, “laranja”]
+
+
+
+Aqui, o slice() cria um novo array contendo os elementos da posição 1 até a posição 3 (não inclusa). Isso permite que você extraia pedaços de arrays de maneira eficiente, sem alterar o array original.
+
+Esses métodos avançados ampliam o controle que você tem sobre os arrays em JavaScript, permitindo que você manipule dados de forma precisa e otimizada. Usar esses métodos adequadamente pode tornar o código mais eficiente e fácil de manter, especialmente ao lidar com grandes volumes de dados ou operações complexas.
+
+Conteúdo Bônus
+
+O MDN (Mozilla Developer Network) é uma fonte completa e confiável de documentação e tutoriais sobre tecnologias web.
+
+Eles têm uma página dedicada ao uso de Arrays em JavaScript, explicando desde o básico até métodos mais avançados.
+
+Título: Array
+
+Plataforma: MDN Web Docs
+
+GitHub da Disciplina
+Você pode acessar o repositório da disciplina no GitHub a partir do seguinte link: https://github.com/FaculdadeDescomplica/DesenvolvimentoDinamico
+
+Referência Bibliográfica
+
+DEITEL, P. J.; DEITEL, H. M. Ajax, rich internet applications e desenvolvimento web para programadores. Pearson: 2008
+
+FELIX, R. (Org.). Programação orientada a objetos. Pearson: 2016
+
+FERREIRA, R. D. Linguagem de programação. Contentus: 2020.
+
+FLATSCHART, F.; BACHINI, C.; CUSIN, C. Open Web Platform. Brasport: 2013.
+
+NEVES, M. C. B. de A. Sites de Alta Performance. Contentus: 2020
+
+PAGE-JONES, M. Fundamentos do desenho orientado a objeto com UML. Pearson: 2001.
+
+PUGA, S.; RISSETTI, G. Lógica de programação e estruturas de dados, com aplicações em Java. Pearson: 2016.
+
+SEGURADO, V. S. (Org.). Projeto de interface com o usuário. Pearson: 2016.
+
+Atividade Prática 7 – Arrays
+
+Título da Prática: Fixando entendimento de Arrays
+
+Objetivos: Praticar conceitos de Arrays
+
+Materiais, Métodos e Ferramentas: Computador com uma IDE instalada (recomendado: VS Code) e Javascript instalado via node/npm e o entendimento do contexto abaixo
+
+Atividade Prática
+
+Manipular arrays em JavaScript envolve uma variedade de operações, como adicionar, remover, acessar e modificar elementos do array. Os arrays são estruturas de dados fundamentais em JavaScript e são amplamente utilizados em praticamente todos os tipos de aplicativos.
+
+Criar um Array: Para criar um array em JavaScript, você pode usar a notação de colchetes [] ou o construtor Array().
+Acessar Elementos: Para acessar elementos de um array, você pode usar a notação de colchetes [] com o índice do elemento.
+Adicionar Elementos: Para adicionar elementos a um array, você pode usar os métodos push() para adicionar elementos no final do array.
+Remover Elementos: Para remover elementos de um array, você pode usar os métodos pop() para remover o último elemento do array, shift() para remover o primeiro elemento do array ou splice() para remover elementos com base em sua posição.
+Modificar Elementos: Para modificar elementos de um array, você pode simplesmente atribuir um novo valor a um elemento específico usando a notação de colchetes [].
+Os arrays em JavaScript têm uma variedade de métodos embutidos que permitem manipular, iterar e trabalhar com os elementos do array de maneira eficiente.
+
+Alguns métodos são:
+
+push(): Adiciona um ou mais elementos ao final do array e retorna o novo comprimento do array.
+pop(): Remove o último elemento do array e retorna esse elemento.
+shift(): Remove o primeiro elemento do array e retorna esse elemento.
+Alguns métodos avançados para manipulação de arrays são:
+
+unshift(): Adiciona um ou mais elementos ao início do array e retorna o novo comprimento do array.
+concat(): Retorna um novo array resultante da concatenação de dois ou mais arrays.
+splice(): Altera o conteúdo de um array removendo, substituindo ou adicionando elementos.
+slice(): Retorna uma cópia superficial de uma parte do array em um novo array.
+Esse texto é um contexto e resumo que ajuda a reforçar o entendimento dos principais métodos para manipulação de arrays em JavaScript e suas aplicações.
+
+De acordo com as definições apresentadas em aula e acima, vamos praticar respondendo as questões abaixo:
+
+1. Qual método é usado para adicionar um ou mais elementos ao final de um array em JavaScript?
+
+a. pop()
+
+b. push()
+
+c. shift()
+
+d. slice()
+
+
+
+2. Qual método remove o primeiro elemento de um array e retorna esse elemento?
+
+a. pop()
+
+b. unshift()
+
+c. shift()
+
+d. slice()
+
+
+
+3. Qual é o resultado do seguinte código?
+
+let arr = [1, 2, 3, 4];
+
+arr.splice(1, 2);
+
+console.log(arr);
+
+a. [1, 2, 3]
+
+b. [1, 4]
+
+c. [2, 3, 4]
+
+d. [1, 3, 4]
+
+
+
+4. O método slice() é usado para:
+
+a. Adicionar elementos ao final do array.
+
+b. Remover o primeiro elemento do array.
+
+c. Retornar uma cópia de uma parte do array em um novo array.
+
+d. Modificar elementos de um array.
+
+
+
+Gabarito Atividade Prática
+
+1. b. push()
+
+Comentário: O método push() é usado para adicionar elementos ao final do array e retornar o novo comprimento do array.
+
+2. c. shift()
+
+Comentário: O método shift() remove o primeiro elemento de um array e retorna esse elemento.
+
+3. b. [1, 4]
+
+Comentário: O método splice(1, 2) remove dois elementos a partir do índice 1, resultando no array [1, 4].
+
+4. c. Retornar uma cópia de uma parte do array em um novo array.
+
+Comentário: O método slice() retorna uma cópia superficial de uma parte do array sem modificar o array original.
